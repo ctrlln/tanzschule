@@ -1,0 +1,3 @@
+# Tanzschule
+
+Initial repository setup.
