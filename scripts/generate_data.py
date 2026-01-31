@@ -46,7 +46,7 @@ def generate_person(gender):
         "gender": gender,
         "age": random.randint(18, 65),
         "phone": generate_phone(),
-        "partnerId": None
+        "isPartnerOf": None
     }
 
 def generate_data():
@@ -70,8 +70,8 @@ def generate_data():
                 man = generate_person('M')
                 woman = generate_person('F')
                 
-                man['partnerId'] = woman['id']
-                woman['partnerId'] = man['id']
+                man['isPartnerOf'] = woman['id']
+                woman['isPartnerOf'] = man['id']
                 
                 course['participants'].append(man)
                 course['participants'].append(woman)
