@@ -49,6 +49,21 @@ def generate_person(gender):
         "isPartnerOf": None
     }
 
+def generate_schedule():
+    days = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
+    times = ["10:00", "14:00", "16:30", "18:00", "19:30", "20:00", "21:00"]
+    
+    # 1 or 2 times per week
+    num_days = 1 if random.random() < 0.7 else 2
+    selected_days = sorted(random.sample(days, num_days), key=lambda d: days.index(d))
+    
+    schedule = []
+    for day in selected_days:
+        time = random.choice(times)
+        schedule.append(f"{day} {time}")
+        
+    return schedule
+
 def generate_data():
     courses = []
     
@@ -56,6 +71,7 @@ def generate_data():
         course = {
             "id": str(uuid.uuid4()),
             "name": course_name,
+            "schedule": generate_schedule(),
             "participants": []
         }
         
@@ -85,7 +101,10 @@ def generate_data():
         
         courses.append(course)
         
-    db_data = {"courses": courses}
+    db_data = {
+        "courses": courses,
+        "attendance": {}
+    }
     
     with open('mock_db.json', 'w', encoding='utf-8') as f:
         json.dump(db_data, f, indent=2, ensure_ascii=False)

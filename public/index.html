@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanzschule Schauburg</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Login View -->
+    <div id="login-view" class="view active">
+        <div class="login-container glass">
+            <h1>Kursliste</h1>
+            <p>Bitte anmelden</p>
+            <input type="password" id="password-input" placeholder="Passwort" onkeypress="handleEnter(event)">
+            <button onclick="login()">Anmelden</button>
+            <p id="login-error" class="error"></p>
+        </div>
+    </div>
+
+    <!-- Dashboard View -->
+    <div id="dashboard-view" class="view">
+        <header class="glass">
+            <h2>Tanzkurse</h2>
+            <button class="logout-btn" onclick="logout()">Abmelden</button>
+        </header>
+        <div id="course-list" class="container">
+            <!-- Courses inserted here -->
+        </div>
+    </div>
+
+    <!-- Course Detail View -->
+    <div id="course-view" class="view">
+        <header class="glass">
+            <button onclick="showView('dashboard-view')" class="back-btn icon-only">←</button>
+            <h2 id="course-title">Course Name</h2>
+        </header>
+
+        <div class="container">
+            <div class="glass controls">
+                <div id="date-slider" class="date-slider">
+                    <!-- Dates inserted here -->
+                </div>
+            </div>
+
+            <div id="participants-list">
+                <!-- Participants inserted here -->
+            </div>
+
+            <button class="floating-btn" onclick="openAddModal()">+</button>
+        </div>
+    </div>
+
+    <!-- Add Participant Modal -->
+    <div id="add-modal" class="modal">
+        <div class="modal-content glass">
+            <h3>Teilnehmer hinzufügen</h3>
+            <span class="close" onclick="closeAddModal()">&times;</span>
+
+            <h4>Teilnehmer 1 (Pflicht)</h4>
+            <input type="text" id="p1-firstname" placeholder="Vorname">
+            <input type="text" id="p1-lastname" placeholder="Nachname">
+            <select id="p1-gender">
+                <option value="M">Männlich</option>
+                <option value="F">Weiblich</option>
+            </select>
+
+            <hr style="border: 0; border-top: 1px solid var(--glass-border); margin: 20px 0;">
+
+            <h4>Teilnehmer 2 (Optional / Partner)</h4>
+            <input type="text" id="p2-firstname" placeholder="Vorname (Optional)">
+            <input type="text" id="p2-lastname" placeholder="Nachname (Optional)">
+            <select id="p2-gender">
+                <option value="F">Weiblich</option>
+                <option value="M">Männlich</option>
+            </select>
+
+            <button onclick="addParticipant()" style="margin-top: 20px;">Hinzufügen</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

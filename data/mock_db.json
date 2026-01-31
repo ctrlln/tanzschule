@@ -1,1765 +1,1841 @@
 {
   "courses": [
     {
-      "id": "97b31239-4a48-403e-9862-89c0509a9acc",
+      "id": "65529965-4674-4669-bc80-702879e74afd",
       "name": "Rock'n'Roll",
+      "schedule": [
+        "Freitag 19:30"
+      ],
       "participants": [
         {
-          "id": "9179f726-d90c-487b-97b5-b28b99ba23cb",
-          "firstName": "Jürgen",
-          "lastName": "Schneider",
-          "gender": "M",
-          "age": 53,
-          "phone": "+49 173 9382933",
-          "isPartnerOf": "964f133d-df31-4bca-974d-0b6309f98b1c"
-        },
-        {
-          "id": "964f133d-df31-4bca-974d-0b6309f98b1c",
-          "firstName": "Nicole",
-          "lastName": "Schneider",
-          "gender": "F",
-          "age": 50,
-          "phone": "+49 162 0686859",
-          "isPartnerOf": "9179f726-d90c-487b-97b5-b28b99ba23cb"
-        },
-        {
-          "id": "5bad0b41-c4a7-47be-8bc8-74289fd68f6c",
-          "firstName": "Sebastian",
-          "lastName": "Meyer",
-          "gender": "M",
-          "age": 32,
-          "phone": "+49 175 6292305",
-          "isPartnerOf": "44043d96-0975-4bfe-b976-04fead6ed8e2"
-        },
-        {
-          "id": "44043d96-0975-4bfe-b976-04fead6ed8e2",
-          "firstName": "Jessica",
-          "lastName": "Wolf",
-          "gender": "F",
-          "age": 58,
-          "phone": "+49 170 2963450",
-          "isPartnerOf": "5bad0b41-c4a7-47be-8bc8-74289fd68f6c"
-        },
-        {
-          "id": "98a15915-df84-4107-8cab-ee5c6f6679a5",
-          "firstName": "Sebastian",
-          "lastName": "Weber",
-          "gender": "M",
-          "age": 29,
-          "phone": "+49 173 1567652",
-          "isPartnerOf": "a6d1a48a-1571-4be3-8234-d6ce8e8984b7"
-        },
-        {
-          "id": "a6d1a48a-1571-4be3-8234-d6ce8e8984b7",
-          "firstName": "Tanja",
-          "lastName": "Klein",
-          "gender": "F",
-          "age": 45,
-          "phone": "+49 151 2235887",
-          "isPartnerOf": "98a15915-df84-4107-8cab-ee5c6f6679a5"
-        },
-        {
-          "id": "e99f59a6-0b41-40fe-880d-1f6790964b81",
-          "firstName": "Martin",
-          "lastName": "Schwarz",
-          "gender": "M",
-          "age": 56,
-          "phone": "+49 173 8194626",
-          "isPartnerOf": "aa6836d4-229f-4297-a68b-a14e7d2d159e"
-        },
-        {
-          "id": "aa6836d4-229f-4297-a68b-a14e7d2d159e",
-          "firstName": "Anna",
-          "lastName": "Schwarz",
-          "gender": "F",
-          "age": 34,
-          "phone": "+49 160 5656003",
-          "isPartnerOf": "e99f59a6-0b41-40fe-880d-1f6790964b81"
-        },
-        {
-          "id": "ce818914-6956-49fe-86df-79e43b6386b9",
-          "firstName": "Felix",
-          "lastName": "Hofmann",
+          "id": "8614edbc-7149-42a3-a1bf-a4cd9b2c9a7e",
+          "firstName": "Christian",
+          "lastName": "Braun",
           "gender": "M",
           "age": 59,
-          "phone": "+49 174 8786135",
-          "isPartnerOf": "1d7e7393-3a4a-436b-9c3b-0b911f10535d"
+          "phone": "+49 175 2028901",
+          "isPartnerOf": "09f8d37f-589b-4ddc-ae38-10da55837c99"
         },
         {
-          "id": "1d7e7393-3a4a-436b-9c3b-0b911f10535d",
-          "firstName": "Melanie",
-          "lastName": "Wagner",
+          "id": "09f8d37f-589b-4ddc-ae38-10da55837c99",
+          "firstName": "Claudia",
+          "lastName": "Müller",
           "gender": "F",
-          "age": 40,
-          "phone": "+49 172 2348370",
-          "isPartnerOf": "ce818914-6956-49fe-86df-79e43b6386b9"
+          "age": 38,
+          "phone": "+49 172 8035320",
+          "isPartnerOf": "8614edbc-7149-42a3-a1bf-a4cd9b2c9a7e"
         },
         {
-          "id": "80a33224-7315-4f21-b8b1-960224b23af3",
-          "firstName": "Jan",
+          "id": "e0a79443-3547-4047-81bb-16a10e1db86b",
+          "firstName": "Jürgen",
+          "lastName": "Wagner",
+          "gender": "M",
+          "age": 64,
+          "phone": "+49 162 2160786",
+          "isPartnerOf": "236ab34f-87dd-44ce-b331-939d69b6eb54"
+        },
+        {
+          "id": "236ab34f-87dd-44ce-b331-939d69b6eb54",
+          "firstName": "Katharina",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 29,
+          "phone": "+49 174 9516973",
+          "isPartnerOf": "e0a79443-3547-4047-81bb-16a10e1db86b"
+        },
+        {
+          "id": "bcc90b89-fb64-43a2-8134-08391794c6ad",
+          "firstName": "Andreas",
+          "lastName": "Hofmann",
+          "gender": "M",
+          "age": 26,
+          "phone": "+49 175 1092763",
+          "isPartnerOf": "e5c08c73-817b-464e-9d4e-706c3c491994"
+        },
+        {
+          "id": "e5c08c73-817b-464e-9d4e-706c3c491994",
+          "firstName": "Christina",
+          "lastName": "Schwarz",
+          "gender": "F",
+          "age": 52,
+          "phone": "+49 172 7357177",
+          "isPartnerOf": "bcc90b89-fb64-43a2-8134-08391794c6ad"
+        },
+        {
+          "id": "6802b2ea-5884-4f24-9668-92af2743bb67",
+          "firstName": "Florian",
+          "lastName": "Schmidt",
+          "gender": "M",
+          "age": 39,
+          "phone": "+49 175 2330924",
+          "isPartnerOf": "7711f98c-dfbc-4698-91f8-1b19ffc7ee10"
+        },
+        {
+          "id": "7711f98c-dfbc-4698-91f8-1b19ffc7ee10",
+          "firstName": "Melanie",
+          "lastName": "Becker",
+          "gender": "F",
+          "age": 64,
+          "phone": "+49 170 2369353",
+          "isPartnerOf": "6802b2ea-5884-4f24-9668-92af2743bb67"
+        },
+        {
+          "id": "cb61b7a9-95fc-4346-af87-29739443aef0",
+          "firstName": "Felix",
+          "lastName": "Krüger",
+          "gender": "M",
+          "age": 61,
+          "phone": "+49 175 5508259",
+          "isPartnerOf": null
+        },
+        {
+          "id": "3bdb14ea-b712-4c9b-8b18-09df79454467",
+          "firstName": "Lukas",
+          "lastName": "Koch",
+          "gender": "M",
+          "age": 49,
+          "phone": "+49 174 4361128",
+          "isPartnerOf": null
+        },
+        {
+          "id": "438d6f3c-59d9-4058-933f-e872088abae5",
+          "firstName": "Felix",
+          "lastName": "Lange",
+          "gender": "M",
+          "age": 64,
+          "phone": "+49 160 9511728",
+          "isPartnerOf": "b64639ff-9abf-44cb-9ba2-362c0cefb0ae"
+        },
+        {
+          "id": "b64639ff-9abf-44cb-9ba2-362c0cefb0ae",
+          "firstName": "Anna",
+          "lastName": "Schulz",
+          "gender": "F",
+          "age": 20,
+          "phone": "+49 151 4032801",
+          "isPartnerOf": "438d6f3c-59d9-4058-933f-e872088abae5"
+        },
+        {
+          "id": "5c2454e9-5b15-4f9d-9485-e26c0a78b419",
+          "firstName": "Daniel",
           "lastName": "Schröder",
           "gender": "M",
-          "age": 31,
-          "phone": "+49 171 0542794",
-          "isPartnerOf": "cbb391c0-2ad8-4216-95a3-643958e9185e"
+          "age": 27,
+          "phone": "+49 171 0170612",
+          "isPartnerOf": "be711a05-923e-457b-bf8a-b17e567d7de7"
         },
         {
-          "id": "cbb391c0-2ad8-4216-95a3-643958e9185e",
-          "firstName": "Sandra",
-          "lastName": "Becker",
+          "id": "be711a05-923e-457b-bf8a-b17e567d7de7",
+          "firstName": "Sophie",
+          "lastName": "Schröder",
           "gender": "F",
-          "age": 35,
-          "phone": "+49 174 9199716",
-          "isPartnerOf": "80a33224-7315-4f21-b8b1-960224b23af3"
+          "age": 58,
+          "phone": "+49 174 4186733",
+          "isPartnerOf": "5c2454e9-5b15-4f9d-9485-e26c0a78b419"
         },
         {
-          "id": "b56bea05-a0dc-49c2-92bc-b1c6525229a5",
-          "firstName": "Paul",
-          "lastName": "Wagner",
-          "gender": "M",
-          "age": 55,
-          "phone": "+49 162 2771923",
-          "isPartnerOf": "cd43ead3-559c-4ac7-bc4b-58f7fe60f771"
-        },
-        {
-          "id": "cd43ead3-559c-4ac7-bc4b-58f7fe60f771",
-          "firstName": "Julia",
-          "lastName": "Becker",
+          "id": "c0073287-a5c1-4130-b19b-a73220debe65",
+          "firstName": "Birgit",
+          "lastName": "Krüger",
           "gender": "F",
-          "age": 44,
-          "phone": "+49 173 7685296",
-          "isPartnerOf": "b56bea05-a0dc-49c2-92bc-b1c6525229a5"
+          "age": 20,
+          "phone": "+49 160 1581105",
+          "isPartnerOf": null
         },
         {
-          "id": "5518998f-0b31-4231-8e0e-be5d414fb3c8",
-          "firstName": "Thomas",
-          "lastName": "Neumann",
+          "id": "c9fb14ce-9f5e-4d90-837a-50310306f041",
+          "firstName": "Alexander",
+          "lastName": "Schulz",
           "gender": "M",
-          "age": 35,
-          "phone": "+49 162 2491665",
-          "isPartnerOf": "59acbbd4-9ccf-4805-b0e4-873943d4166a"
+          "age": 18,
+          "phone": "+49 172 5652929",
+          "isPartnerOf": "ef085dfb-aef4-43c2-a1cb-1a6e7d8bb3b3"
         },
         {
-          "id": "59acbbd4-9ccf-4805-b0e4-873943d4166a",
-          "firstName": "Hannah",
+          "id": "ef085dfb-aef4-43c2-a1cb-1a6e7d8bb3b3",
+          "firstName": "Katharina",
+          "lastName": "Richter",
+          "gender": "F",
+          "age": 49,
+          "phone": "+49 170 6942832",
+          "isPartnerOf": "c9fb14ce-9f5e-4d90-837a-50310306f041"
+        },
+        {
+          "id": "b84c3a1a-3129-4ee9-b7a3-b72c8f88d5ac",
+          "firstName": "Birgit",
           "lastName": "Koch",
           "gender": "F",
-          "age": 40,
-          "phone": "+49 171 5794635",
-          "isPartnerOf": "5518998f-0b31-4231-8e0e-be5d414fb3c8"
+          "age": 33,
+          "phone": "+49 160 2371954",
+          "isPartnerOf": null
         },
         {
-          "id": "ad0206fd-799d-4a4e-a524-bc1062b5d980",
-          "firstName": "Lena",
-          "lastName": "Hoffmann",
+          "id": "bb90b49e-0973-4c3c-ae50-100e11bf8270",
+          "firstName": "Felix",
+          "lastName": "Schneider",
+          "gender": "M",
+          "age": 44,
+          "phone": "+49 172 6411423",
+          "isPartnerOf": "0ac936b2-ffc2-407c-8b25-4a55551428cd"
+        },
+        {
+          "id": "0ac936b2-ffc2-407c-8b25-4a55551428cd",
+          "firstName": "Anja",
+          "lastName": "Lange",
           "gender": "F",
-          "age": 19,
-          "phone": "+49 170 1487556",
+          "age": 54,
+          "phone": "+49 152 3831383",
+          "isPartnerOf": "bb90b49e-0973-4c3c-ae50-100e11bf8270"
+        },
+        {
+          "id": "a347d24e-7372-49fe-92b8-31e5d4ed2bb5",
+          "firstName": "Jan",
+          "lastName": "Lange",
+          "gender": "M",
+          "age": 49,
+          "phone": "+49 170 0680056",
+          "isPartnerOf": "abc36530-4c88-4325-b8fb-2e00e66e9438"
+        },
+        {
+          "id": "abc36530-4c88-4325-b8fb-2e00e66e9438",
+          "firstName": "Sophie",
+          "lastName": "Bauer",
+          "gender": "F",
+          "age": 65,
+          "phone": "+49 172 8902918",
+          "isPartnerOf": "a347d24e-7372-49fe-92b8-31e5d4ed2bb5"
+        },
+        {
+          "id": "6fce7beb-e4d5-4493-9961-afe76879941c",
+          "firstName": "Tobias",
+          "lastName": "Fischer",
+          "gender": "M",
+          "age": 62,
+          "phone": "+49 152 8372758",
+          "isPartnerOf": null
+        },
+        {
+          "id": "ff1a7e0d-5c35-4f6d-9d1f-9ff5ecadabca",
+          "firstName": "Test",
+          "lastName": "User",
+          "gender": "M",
+          "age": 30,
+          "phone": "-",
           "isPartnerOf": null
         }
       ]
     },
     {
-      "id": "4e379887-26e9-40b6-9cf0-863b041bc301",
+      "id": "1c9ffdfd-be5c-4efd-ae6f-275f808eb21e",
       "name": "Standard Latein",
+      "schedule": [
+        "Sonntag 14:00"
+      ],
       "participants": [
         {
-          "id": "3a4c7cfa-e265-42a0-b3f2-deddf7b218d8",
-          "firstName": "Martin",
-          "lastName": "Zimmermann",
-          "gender": "M",
-          "age": 31,
-          "phone": "+49 171 2245747",
-          "isPartnerOf": "c3971a92-43d2-46d9-bdf2-0221ff35b3b6"
-        },
-        {
-          "id": "c3971a92-43d2-46d9-bdf2-0221ff35b3b6",
-          "firstName": "Birgit",
+          "id": "c154b56a-eb51-491a-b0d3-1ded38ba4ab4",
+          "firstName": "Julian",
           "lastName": "Schäfer",
-          "gender": "F",
-          "age": 28,
-          "phone": "+49 170 3311470",
-          "isPartnerOf": "3a4c7cfa-e265-42a0-b3f2-deddf7b218d8"
+          "gender": "M",
+          "age": 52,
+          "phone": "+49 170 1630008",
+          "isPartnerOf": "57e908c6-941b-461e-85ce-0c03e163f5be"
         },
         {
-          "id": "975301e7-69e3-463c-b35b-085b6477b8f9",
-          "firstName": "Lisa",
+          "id": "57e908c6-941b-461e-85ce-0c03e163f5be",
+          "firstName": "Stefanie",
           "lastName": "Müller",
           "gender": "F",
-          "age": 54,
-          "phone": "+49 160 6359229",
+          "age": 41,
+          "phone": "+49 152 4914682",
+          "isPartnerOf": "c154b56a-eb51-491a-b0d3-1ded38ba4ab4"
+        },
+        {
+          "id": "4249ac77-2dcc-4c69-930d-e2c3e1a36fb8",
+          "firstName": "Jonas",
+          "lastName": "Wolf",
+          "gender": "M",
+          "age": 51,
+          "phone": "+49 152 9322989",
           "isPartnerOf": null
         },
         {
-          "id": "36d6529d-16d3-4db5-a535-37cd4f0fee7b",
-          "firstName": "Markus",
-          "lastName": "Hartmann",
-          "gender": "M",
-          "age": 43,
-          "phone": "+49 174 1511920",
-          "isPartnerOf": "d05d745c-98e4-49e1-8d5a-4df052078516"
-        },
-        {
-          "id": "d05d745c-98e4-49e1-8d5a-4df052078516",
-          "firstName": "Tanja",
-          "lastName": "Zimmermann",
-          "gender": "F",
-          "age": 62,
-          "phone": "+49 175 4273118",
-          "isPartnerOf": "36d6529d-16d3-4db5-a535-37cd4f0fee7b"
-        },
-        {
-          "id": "80e8aff7-e7c0-4685-af68-7c669c3b1215",
-          "firstName": "Bernd",
-          "lastName": "Meyer",
-          "gender": "M",
-          "age": 54,
-          "phone": "+49 162 9141477",
-          "isPartnerOf": "4fbfca52-37dc-4e3f-90b2-03d7275f73ed"
-        },
-        {
-          "id": "4fbfca52-37dc-4e3f-90b2-03d7275f73ed",
-          "firstName": "Lea",
-          "lastName": "Weber",
-          "gender": "F",
-          "age": 35,
-          "phone": "+49 174 2132300",
-          "isPartnerOf": "80e8aff7-e7c0-4685-af68-7c669c3b1215"
-        },
-        {
-          "id": "40e22ad3-3aab-43ee-adf8-3458246ff491",
+          "id": "b55e5c06-e849-484a-8e3b-33d312cfb2c4",
           "firstName": "Stefan",
-          "lastName": "Meyer",
-          "gender": "M",
-          "age": 38,
-          "phone": "+49 174 1721324",
-          "isPartnerOf": "d81476ea-660c-4b54-9d10-4df7f4474c06"
-        },
-        {
-          "id": "d81476ea-660c-4b54-9d10-4df7f4474c06",
-          "firstName": "Petra",
-          "lastName": "Lange",
-          "gender": "F",
-          "age": 65,
-          "phone": "+49 151 5974591",
-          "isPartnerOf": "40e22ad3-3aab-43ee-adf8-3458246ff491"
-        },
-        {
-          "id": "1f9559cc-26c7-4986-a54d-d920480c073a",
-          "firstName": "Andreas",
           "lastName": "Klein",
           "gender": "M",
-          "age": 50,
-          "phone": "+49 170 7080933",
-          "isPartnerOf": "7f205d6f-2bf6-49bb-a06a-6ee2e3172c8e"
+          "age": 51,
+          "phone": "+49 173 7405070",
+          "isPartnerOf": "6b02fc80-5c45-451a-9887-daf5f20ca3a8"
         },
         {
-          "id": "7f205d6f-2bf6-49bb-a06a-6ee2e3172c8e",
+          "id": "6b02fc80-5c45-451a-9887-daf5f20ca3a8",
           "firstName": "Claudia",
-          "lastName": "Becker",
+          "lastName": "Schulz",
           "gender": "F",
-          "age": 32,
-          "phone": "+49 174 0260748",
-          "isPartnerOf": "1f9559cc-26c7-4986-a54d-d920480c073a"
+          "age": 36,
+          "phone": "+49 170 6294448",
+          "isPartnerOf": "b55e5c06-e849-484a-8e3b-33d312cfb2c4"
         },
         {
-          "id": "bbff085c-111b-4741-bc97-eb9f5bea0ea8",
-          "firstName": "Klaus",
-          "lastName": "Schröder",
-          "gender": "M",
-          "age": 63,
-          "phone": "+49 160 1295259",
-          "isPartnerOf": "04f76ef5-5986-47a5-8fcc-31a5780f2a28"
-        },
-        {
-          "id": "04f76ef5-5986-47a5-8fcc-31a5780f2a28",
-          "firstName": "Hannah",
+          "id": "00fca0fb-5304-448f-8b81-5dfae5ce6861",
+          "firstName": "Christina",
           "lastName": "Koch",
           "gender": "F",
-          "age": 46,
-          "phone": "+49 175 0358480",
-          "isPartnerOf": "bbff085c-111b-4741-bc97-eb9f5bea0ea8"
+          "age": 47,
+          "phone": "+49 151 8930658",
+          "isPartnerOf": null
         },
         {
-          "id": "08b64e1f-7eff-4070-a0b2-84694314aea4",
+          "id": "953d3783-af72-4676-a49b-f23935aa2254",
+          "firstName": "Tobias",
+          "lastName": "Hoffmann",
+          "gender": "M",
+          "age": 33,
+          "phone": "+49 172 8840555",
+          "isPartnerOf": "f4a85259-c98b-454e-b297-65655f038f3b"
+        },
+        {
+          "id": "f4a85259-c98b-454e-b297-65655f038f3b",
+          "firstName": "Anna",
+          "lastName": "Fischer",
+          "gender": "F",
+          "age": 54,
+          "phone": "+49 173 5268858",
+          "isPartnerOf": "953d3783-af72-4676-a49b-f23935aa2254"
+        },
+        {
+          "id": "5e9ffd31-598c-472b-98e7-c20ba9538e21",
+          "firstName": "Max",
+          "lastName": "Schmidt",
+          "gender": "M",
+          "age": 64,
+          "phone": "+49 172 8382334",
+          "isPartnerOf": "85c5ab0a-5c09-41fe-b9c7-71fff65ad4de"
+        },
+        {
+          "id": "85c5ab0a-5c09-41fe-b9c7-71fff65ad4de",
+          "firstName": "Anja",
+          "lastName": "Schmidt",
+          "gender": "F",
+          "age": 49,
+          "phone": "+49 162 4395765",
+          "isPartnerOf": "5e9ffd31-598c-472b-98e7-c20ba9538e21"
+        },
+        {
+          "id": "e753948b-7cc7-4d31-a838-d7955b64ce24",
+          "firstName": "Stefan",
+          "lastName": "Wagner",
+          "gender": "M",
+          "age": 54,
+          "phone": "+49 162 1429639",
+          "isPartnerOf": "d52c0574-89e7-42d7-a8c0-5f20b7a837d2"
+        },
+        {
+          "id": "d52c0574-89e7-42d7-a8c0-5f20b7a837d2",
+          "firstName": "Sarah",
+          "lastName": "Schmidt",
+          "gender": "F",
+          "age": 64,
+          "phone": "+49 162 3858821",
+          "isPartnerOf": "e753948b-7cc7-4d31-a838-d7955b64ce24"
+        },
+        {
+          "id": "1a1da4f1-24c8-44bd-b944-d4ce4e84cb05",
+          "firstName": "Lukas",
+          "lastName": "Schäfer",
+          "gender": "M",
+          "age": 65,
+          "phone": "+49 162 3264215",
+          "isPartnerOf": "2ec09e34-db93-4562-a294-64a65eed1b28"
+        },
+        {
+          "id": "2ec09e34-db93-4562-a294-64a65eed1b28",
+          "firstName": "Hannah",
+          "lastName": "Weber",
+          "gender": "F",
+          "age": 38,
+          "phone": "+49 160 4727772",
+          "isPartnerOf": "1a1da4f1-24c8-44bd-b944-d4ce4e84cb05"
+        },
+        {
+          "id": "1a22c582-8240-40bb-9523-ae5c2c5b3177",
+          "firstName": "Lukas",
+          "lastName": "Schäfer",
+          "gender": "M",
+          "age": 58,
+          "phone": "+49 171 3705709",
+          "isPartnerOf": null
+        },
+        {
+          "id": "77b9eb1a-6e8e-4358-85ee-ccfc553234aa",
+          "firstName": "Tim",
+          "lastName": "Hofmann",
+          "gender": "M",
+          "age": 30,
+          "phone": "+49 152 2884331",
+          "isPartnerOf": "a692d46b-92dc-44d6-9124-7173d67a8c84"
+        },
+        {
+          "id": "a692d46b-92dc-44d6-9124-7173d67a8c84",
+          "firstName": "Sandra",
+          "lastName": "Schulz",
+          "gender": "F",
+          "age": 51,
+          "phone": "+49 160 0315365",
+          "isPartnerOf": "77b9eb1a-6e8e-4358-85ee-ccfc553234aa"
+        },
+        {
+          "id": "0dedcb2d-b525-4b7e-871e-9e43172e16cc",
+          "firstName": "Felix",
+          "lastName": "Wolf",
+          "gender": "M",
+          "age": 19,
+          "phone": "+49 160 4414588",
+          "isPartnerOf": "23aeec13-8c40-4cfd-a700-013acc285edc"
+        },
+        {
+          "id": "23aeec13-8c40-4cfd-a700-013acc285edc",
+          "firstName": "Julia",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 51,
+          "phone": "+49 162 7271140",
+          "isPartnerOf": "0dedcb2d-b525-4b7e-871e-9e43172e16cc"
+        },
+        {
+          "id": "424eeb42-012a-4ec1-bce0-7c401c8de9ac",
+          "firstName": "Lukas",
+          "lastName": "Bauer",
+          "gender": "M",
+          "age": 39,
+          "phone": "+49 170 9597062",
+          "isPartnerOf": "fec171a3-fe3f-4250-92de-460fd1151525"
+        },
+        {
+          "id": "fec171a3-fe3f-4250-92de-460fd1151525",
+          "firstName": "Lea",
+          "lastName": "Hoffmann",
+          "gender": "F",
+          "age": 44,
+          "phone": "+49 174 1386423",
+          "isPartnerOf": "424eeb42-012a-4ec1-bce0-7c401c8de9ac"
+        },
+        {
+          "id": "0ff8e2e0-3e87-4704-a62d-edb266f7f194",
+          "firstName": "Laura",
+          "lastName": "Zimmermann",
+          "gender": "F",
+          "age": 63,
+          "phone": "+49 162 8605235",
+          "isPartnerOf": null
+        },
+        {
+          "id": "dead388f-160f-4c05-ad78-424f991002da",
+          "firstName": "Thomas",
+          "lastName": "Schröder",
+          "gender": "M",
+          "age": 38,
+          "phone": "+49 173 9988269",
+          "isPartnerOf": null
+        }
+      ]
+    },
+    {
+      "id": "60ee77ff-6c0e-4f18-ab67-20a2ce1e1ff4",
+      "name": "Line Dance",
+      "schedule": [
+        "Montag 16:30",
+        "Dienstag 20:00"
+      ],
+      "participants": [
+        {
+          "id": "8a842bed-b6e0-450d-bd35-0e8cdd22c702",
+          "firstName": "Paul",
+          "lastName": "Meyer",
+          "gender": "M",
+          "age": 21,
+          "phone": "+49 160 4884009",
+          "isPartnerOf": null
+        },
+        {
+          "id": "68e94b45-a7a6-427f-9a20-56190ac4a812",
+          "firstName": "Uwe",
+          "lastName": "Wolf",
+          "gender": "M",
+          "age": 22,
+          "phone": "+49 170 9608368",
+          "isPartnerOf": "ac5df6f3-0f3f-4c94-a074-fd7a43688018"
+        },
+        {
+          "id": "ac5df6f3-0f3f-4c94-a074-fd7a43688018",
+          "firstName": "Marie",
+          "lastName": "Richter",
+          "gender": "F",
+          "age": 63,
+          "phone": "+49 152 4616993",
+          "isPartnerOf": "68e94b45-a7a6-427f-9a20-56190ac4a812"
+        },
+        {
+          "id": "060d5b8b-250a-46eb-b499-dc8045eaf654",
+          "firstName": "Daniel",
+          "lastName": "Weber",
+          "gender": "M",
+          "age": 21,
+          "phone": "+49 152 6393945",
+          "isPartnerOf": "a7f071e4-e7c7-4db8-b062-fa41fe47b779"
+        },
+        {
+          "id": "a7f071e4-e7c7-4db8-b062-fa41fe47b779",
+          "firstName": "Marie",
+          "lastName": "Schäfer",
+          "gender": "F",
+          "age": 34,
+          "phone": "+49 162 3092078",
+          "isPartnerOf": "060d5b8b-250a-46eb-b499-dc8045eaf654"
+        },
+        {
+          "id": "e60bf886-aae5-4839-9799-49fab710d157",
+          "firstName": "Thomas",
+          "lastName": "Braun",
+          "gender": "M",
+          "age": 56,
+          "phone": "+49 160 6093730",
+          "isPartnerOf": "1da4bfee-15a2-4ad0-9b09-d8e2a27abb36"
+        },
+        {
+          "id": "1da4bfee-15a2-4ad0-9b09-d8e2a27abb36",
+          "firstName": "Sandra",
+          "lastName": "Hoffmann",
+          "gender": "F",
+          "age": 54,
+          "phone": "+49 152 4220194",
+          "isPartnerOf": "e60bf886-aae5-4839-9799-49fab710d157"
+        },
+        {
+          "id": "fec41b4d-0400-45c6-87b0-27b8279ef29d",
+          "firstName": "Alexander",
+          "lastName": "Schröder",
+          "gender": "M",
+          "age": 26,
+          "phone": "+49 170 9402472",
+          "isPartnerOf": "c23c2114-0705-48ab-b851-f1c106efbe76"
+        },
+        {
+          "id": "c23c2114-0705-48ab-b851-f1c106efbe76",
+          "firstName": "Julia",
+          "lastName": "Schäfer",
+          "gender": "F",
+          "age": 54,
+          "phone": "+49 170 1509491",
+          "isPartnerOf": "fec41b4d-0400-45c6-87b0-27b8279ef29d"
+        },
+        {
+          "id": "d0dd3910-6b85-408e-beb4-7f4c850f5430",
+          "firstName": "Jessica",
+          "lastName": "Schwarz",
+          "gender": "F",
+          "age": 61,
+          "phone": "+49 174 3386977",
+          "isPartnerOf": null
+        },
+        {
+          "id": "90f82bd9-91b6-4e55-b336-494430df74ff",
+          "firstName": "Michael",
+          "lastName": "Krüger",
+          "gender": "M",
+          "age": 29,
+          "phone": "+49 172 7442086",
+          "isPartnerOf": "ddebf582-291f-4d33-85e0-b59f7a1af66d"
+        },
+        {
+          "id": "ddebf582-291f-4d33-85e0-b59f7a1af66d",
+          "firstName": "Lisa",
+          "lastName": "Schäfer",
+          "gender": "F",
+          "age": 60,
+          "phone": "+49 162 0666926",
+          "isPartnerOf": "90f82bd9-91b6-4e55-b336-494430df74ff"
+        },
+        {
+          "id": "706c6056-b0bc-49c0-8f7c-71d1452d8dde",
+          "firstName": "Florian",
+          "lastName": "Schneider",
+          "gender": "M",
+          "age": 22,
+          "phone": "+49 174 4288454",
+          "isPartnerOf": "d725d97b-6447-4b6c-9380-2607c8ff943e"
+        },
+        {
+          "id": "d725d97b-6447-4b6c-9380-2607c8ff943e",
+          "firstName": "Christina",
+          "lastName": "Müller",
+          "gender": "F",
+          "age": 59,
+          "phone": "+49 151 3507105",
+          "isPartnerOf": "706c6056-b0bc-49c0-8f7c-71d1452d8dde"
+        },
+        {
+          "id": "357bf51e-d705-4f4c-aee8-b85c64d3b559",
+          "firstName": "Sabine",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 43,
+          "phone": "+49 174 6376824",
+          "isPartnerOf": null
+        },
+        {
+          "id": "17d03001-d6b2-4a66-9799-280deda9eb50",
+          "firstName": "Markus",
+          "lastName": "Weber",
+          "gender": "M",
+          "age": 41,
+          "phone": "+49 151 2439955",
+          "isPartnerOf": "ebf64cc4-3b95-47b4-80c8-e1259c11fc4f"
+        },
+        {
+          "id": "ebf64cc4-3b95-47b4-80c8-e1259c11fc4f",
+          "firstName": "Laura",
+          "lastName": "Bauer",
+          "gender": "F",
+          "age": 59,
+          "phone": "+49 171 6026108",
+          "isPartnerOf": "17d03001-d6b2-4a66-9799-280deda9eb50"
+        },
+        {
+          "id": "b68a27f4-b65a-4225-9ab2-7c435c95fb63",
+          "firstName": "Nicole",
+          "lastName": "Weber",
+          "gender": "F",
+          "age": 54,
+          "phone": "+49 160 1230115",
+          "isPartnerOf": null
+        }
+      ]
+    },
+    {
+      "id": "cde67890-9acc-42e2-b50e-873637332f53",
+      "name": "Salsa",
+      "schedule": [
+        "Donnerstag 19:30",
+        "Sonntag 14:00"
+      ],
+      "participants": [
+        {
+          "id": "7fe2db37-2172-4f61-a64f-fbd26594effa",
+          "firstName": "Andreas",
+          "lastName": "Neumann",
+          "gender": "M",
+          "age": 47,
+          "phone": "+49 174 3275366",
+          "isPartnerOf": "90e04cb5-1e52-425b-a367-413369fa241e"
+        },
+        {
+          "id": "90e04cb5-1e52-425b-a367-413369fa241e",
+          "firstName": "Hannah",
+          "lastName": "Bauer",
+          "gender": "F",
+          "age": 29,
+          "phone": "+49 174 3816849",
+          "isPartnerOf": "7fe2db37-2172-4f61-a64f-fbd26594effa"
+        },
+        {
+          "id": "6ce9834d-c960-43b3-ab38-e0d817a1a790",
+          "firstName": "Leon",
+          "lastName": "Neumann",
+          "gender": "M",
+          "age": 50,
+          "phone": "+49 172 3384625",
+          "isPartnerOf": "5507753e-8101-4b75-ac2d-af68ee9f99c6"
+        },
+        {
+          "id": "5507753e-8101-4b75-ac2d-af68ee9f99c6",
+          "firstName": "Sarah",
+          "lastName": "Wolf",
+          "gender": "F",
+          "age": 21,
+          "phone": "+49 173 4255482",
+          "isPartnerOf": "6ce9834d-c960-43b3-ab38-e0d817a1a790"
+        },
+        {
+          "id": "4fee5275-b5b6-4079-9b47-df8d2d6e4313",
+          "firstName": "Jonas",
+          "lastName": "Meyer",
+          "gender": "M",
+          "age": 62,
+          "phone": "+49 171 2356145",
+          "isPartnerOf": "78d2dc01-8116-4629-bfbe-758187c3e2b3"
+        },
+        {
+          "id": "78d2dc01-8116-4629-bfbe-758187c3e2b3",
+          "firstName": "Laura",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 35,
+          "phone": "+49 171 6915094",
+          "isPartnerOf": "4fee5275-b5b6-4079-9b47-df8d2d6e4313"
+        },
+        {
+          "id": "39a4de78-d2de-4bad-a678-bcbb270b3bbf",
+          "firstName": "Michael",
+          "lastName": "Braun",
+          "gender": "M",
+          "age": 48,
+          "phone": "+49 152 2345380",
+          "isPartnerOf": "214c6777-da3d-4092-86a1-75b48ee3ba50"
+        },
+        {
+          "id": "214c6777-da3d-4092-86a1-75b48ee3ba50",
+          "firstName": "Melanie",
+          "lastName": "Hartmann",
+          "gender": "F",
+          "age": 21,
+          "phone": "+49 151 6536045",
+          "isPartnerOf": "39a4de78-d2de-4bad-a678-bcbb270b3bbf"
+        },
+        {
+          "id": "a9699288-2e0d-4efd-9607-f75efed269c0",
+          "firstName": "Paul",
+          "lastName": "Wagner",
+          "gender": "M",
+          "age": 23,
+          "phone": "+49 160 5058938",
+          "isPartnerOf": "5995be50-3a69-41df-8655-3ebd90dd9b66"
+        },
+        {
+          "id": "5995be50-3a69-41df-8655-3ebd90dd9b66",
+          "firstName": "Petra",
+          "lastName": "Neumann",
+          "gender": "F",
+          "age": 29,
+          "phone": "+49 160 9227023",
+          "isPartnerOf": "a9699288-2e0d-4efd-9607-f75efed269c0"
+        },
+        {
+          "id": "73e922aa-8be2-4546-8c2d-503c576303d4",
+          "firstName": "Julian",
+          "lastName": "Bauer",
+          "gender": "M",
+          "age": 18,
+          "phone": "+49 172 8320150",
+          "isPartnerOf": "280d9e6f-b951-4a68-bc2c-46f1390b989a"
+        },
+        {
+          "id": "280d9e6f-b951-4a68-bc2c-46f1390b989a",
+          "firstName": "Monika",
+          "lastName": "Koch",
+          "gender": "F",
+          "age": 30,
+          "phone": "+49 173 2372349",
+          "isPartnerOf": "73e922aa-8be2-4546-8c2d-503c576303d4"
+        },
+        {
+          "id": "a193862d-3664-42dd-a56e-bb0ef6d2e7c1",
+          "firstName": "Max",
+          "lastName": "Neumann",
+          "gender": "M",
+          "age": 37,
+          "phone": "+49 151 1069765",
+          "isPartnerOf": "d093ddaf-888e-4e03-b114-18e4df209f13"
+        },
+        {
+          "id": "d093ddaf-888e-4e03-b114-18e4df209f13",
+          "firstName": "Jessica",
+          "lastName": "Meyer",
+          "gender": "F",
+          "age": 63,
+          "phone": "+49 171 2710099",
+          "isPartnerOf": "a193862d-3664-42dd-a56e-bb0ef6d2e7c1"
+        },
+        {
+          "id": "936e06e9-5bbf-4f1d-adc3-2643cd886aa4",
+          "firstName": "Paul",
+          "lastName": "Weber",
+          "gender": "M",
+          "age": 61,
+          "phone": "+49 160 3703412",
+          "isPartnerOf": null
+        },
+        {
+          "id": "67808458-d48a-4a8f-9352-918dbfa2474a",
+          "firstName": "Martin",
+          "lastName": "Richter",
+          "gender": "M",
+          "age": 55,
+          "phone": "+49 170 6896371",
+          "isPartnerOf": "0df0d2f3-a2d9-410d-91a4-5920f21e252f"
+        },
+        {
+          "id": "0df0d2f3-a2d9-410d-91a4-5920f21e252f",
+          "firstName": "Nicole",
+          "lastName": "Wagner",
+          "gender": "F",
+          "age": 34,
+          "phone": "+49 152 7987350",
+          "isPartnerOf": "67808458-d48a-4a8f-9352-918dbfa2474a"
+        },
+        {
+          "id": "dd7744c0-1191-484e-bdc4-6672fd52e635",
+          "firstName": "Hannah",
+          "lastName": "Lange",
+          "gender": "F",
+          "age": 45,
+          "phone": "+49 173 8481461",
+          "isPartnerOf": null
+        }
+      ]
+    },
+    {
+      "id": "b9b7313d-b2ce-4c16-9edc-6f0e982b8a4f",
+      "name": "Bachata",
+      "schedule": [
+        "Sonntag 10:00"
+      ],
+      "participants": [
+        {
+          "id": "45e5fb25-87fc-4708-ad55-12eee4c10510",
+          "firstName": "Uwe",
+          "lastName": "Hoffmann",
+          "gender": "M",
+          "age": 35,
+          "phone": "+49 174 9270217",
+          "isPartnerOf": "197d865a-e246-4be9-950c-94d08056097c"
+        },
+        {
+          "id": "197d865a-e246-4be9-950c-94d08056097c",
+          "firstName": "Sabine",
+          "lastName": "Klein",
+          "gender": "F",
+          "age": 47,
+          "phone": "+49 170 7716571",
+          "isPartnerOf": "45e5fb25-87fc-4708-ad55-12eee4c10510"
+        },
+        {
+          "id": "1618f87e-8d27-4be1-8547-412d96bab6ac",
+          "firstName": "Lukas",
+          "lastName": "Schwarz",
+          "gender": "M",
+          "age": 62,
+          "phone": "+49 162 8291552",
+          "isPartnerOf": "e46abb26-a0d6-4cdd-aa1c-1a7aa6cf3816"
+        },
+        {
+          "id": "e46abb26-a0d6-4cdd-aa1c-1a7aa6cf3816",
+          "firstName": "Hannah",
+          "lastName": "Klein",
+          "gender": "F",
+          "age": 48,
+          "phone": "+49 152 0471918",
+          "isPartnerOf": "1618f87e-8d27-4be1-8547-412d96bab6ac"
+        },
+        {
+          "id": "b6a94b80-3262-4b95-b536-bc3cd0a53867",
+          "firstName": "Michael",
+          "lastName": "Becker",
+          "gender": "M",
+          "age": 29,
+          "phone": "+49 152 2536130",
+          "isPartnerOf": "685a1949-b7af-4771-8bb6-c1a010a008b9"
+        },
+        {
+          "id": "685a1949-b7af-4771-8bb6-c1a010a008b9",
+          "firstName": "Maria",
+          "lastName": "Lange",
+          "gender": "F",
+          "age": 34,
+          "phone": "+49 175 7281947",
+          "isPartnerOf": "b6a94b80-3262-4b95-b536-bc3cd0a53867"
+        },
+        {
+          "id": "f87fe6f1-59f0-4823-9bc7-03ec8510dd8b",
+          "firstName": "Christian",
+          "lastName": "Wolf",
+          "gender": "M",
+          "age": 53,
+          "phone": "+49 162 6050243",
+          "isPartnerOf": "2eecaec0-53a9-4c11-8910-e0fb68c76ddf"
+        },
+        {
+          "id": "2eecaec0-53a9-4c11-8910-e0fb68c76ddf",
+          "firstName": "Tanja",
+          "lastName": "Neumann",
+          "gender": "F",
+          "age": 59,
+          "phone": "+49 152 2742362",
+          "isPartnerOf": "f87fe6f1-59f0-4823-9bc7-03ec8510dd8b"
+        },
+        {
+          "id": "b777a77e-9d49-4f54-a842-88b565602298",
+          "firstName": "Lukas",
+          "lastName": "Schwarz",
+          "gender": "M",
+          "age": 24,
+          "phone": "+49 171 3784562",
+          "isPartnerOf": "1aeafd80-b14e-4a98-862e-327488e6476c"
+        },
+        {
+          "id": "1aeafd80-b14e-4a98-862e-327488e6476c",
+          "firstName": "Melanie",
+          "lastName": "Schmidt",
+          "gender": "F",
+          "age": 48,
+          "phone": "+49 152 4283315",
+          "isPartnerOf": "b777a77e-9d49-4f54-a842-88b565602298"
+        },
+        {
+          "id": "cbc7cee9-55a8-456c-a7c3-4b029f602398",
+          "firstName": "Felix",
+          "lastName": "Schulz",
+          "gender": "M",
+          "age": 24,
+          "phone": "+49 151 0043612",
+          "isPartnerOf": "be1e3867-8e01-40db-9ef5-3c84371df4a4"
+        },
+        {
+          "id": "be1e3867-8e01-40db-9ef5-3c84371df4a4",
+          "firstName": "Hannah",
+          "lastName": "Becker",
+          "gender": "F",
+          "age": 43,
+          "phone": "+49 173 9383401",
+          "isPartnerOf": "cbc7cee9-55a8-456c-a7c3-4b029f602398"
+        },
+        {
+          "id": "f9ee579f-fece-4ccc-a559-5c4864c07c95",
+          "firstName": "Tim",
+          "lastName": "Schneider",
+          "gender": "M",
+          "age": 40,
+          "phone": "+49 162 4336766",
+          "isPartnerOf": "5246b59b-56be-4c45-9a0e-15ff6d275ae9"
+        },
+        {
+          "id": "5246b59b-56be-4c45-9a0e-15ff6d275ae9",
+          "firstName": "Sandra",
+          "lastName": "Hofmann",
+          "gender": "F",
+          "age": 24,
+          "phone": "+49 170 4565560",
+          "isPartnerOf": "f9ee579f-fece-4ccc-a559-5c4864c07c95"
+        },
+        {
+          "id": "ea25c4b7-434e-4540-aec4-67ddc03b8e8f",
+          "firstName": "Julian",
+          "lastName": "Schröder",
+          "gender": "M",
+          "age": 60,
+          "phone": "+49 171 3120555",
+          "isPartnerOf": "345e980c-4e5c-4ff0-9bbc-5df68d686a7b"
+        },
+        {
+          "id": "345e980c-4e5c-4ff0-9bbc-5df68d686a7b",
+          "firstName": "Jessica",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 23,
+          "phone": "+49 171 8502704",
+          "isPartnerOf": "ea25c4b7-434e-4540-aec4-67ddc03b8e8f"
+        },
+        {
+          "id": "e55f269e-547f-4468-b4ba-4eb8db138da2",
+          "firstName": "Christian",
+          "lastName": "Fischer",
+          "gender": "M",
+          "age": 64,
+          "phone": "+49 174 4718829",
+          "isPartnerOf": "0face256-d3fe-472d-a502-92e9764dbdd1"
+        },
+        {
+          "id": "0face256-d3fe-472d-a502-92e9764dbdd1",
+          "firstName": "Hannah",
+          "lastName": "Meyer",
+          "gender": "F",
+          "age": 61,
+          "phone": "+49 151 0764533",
+          "isPartnerOf": "e55f269e-547f-4468-b4ba-4eb8db138da2"
+        },
+        {
+          "id": "e0204982-b648-4f80-abda-dafcaa391ff5",
+          "firstName": "Christian",
+          "lastName": "Lange",
+          "gender": "M",
+          "age": 24,
+          "phone": "+49 170 9137392",
+          "isPartnerOf": "6a41cc25-4f15-454d-aaaf-02ed9c0242af"
+        },
+        {
+          "id": "6a41cc25-4f15-454d-aaaf-02ed9c0242af",
+          "firstName": "Nicole",
+          "lastName": "Meyer",
+          "gender": "F",
+          "age": 34,
+          "phone": "+49 174 4769783",
+          "isPartnerOf": "e0204982-b648-4f80-abda-dafcaa391ff5"
+        }
+      ]
+    },
+    {
+      "id": "48aa52ef-c85c-413b-b8d9-3c9129781cab",
+      "name": "Discofox",
+      "schedule": [
+        "Sonntag 19:30"
+      ],
+      "participants": [
+        {
+          "id": "536f54e5-0699-43a5-ad2d-ea5c02196105",
+          "firstName": "Claudia",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 49,
+          "phone": "+49 151 9085998",
+          "isPartnerOf": null
+        },
+        {
+          "id": "96a39b02-c5fe-495d-be5c-200c38fd769e",
           "firstName": "Jan",
+          "lastName": "Richter",
+          "gender": "M",
+          "age": 55,
+          "phone": "+49 172 7114789",
+          "isPartnerOf": "b6e43c97-6b38-4656-b1dd-c95953041aac"
+        },
+        {
+          "id": "b6e43c97-6b38-4656-b1dd-c95953041aac",
+          "firstName": "Jessica",
+          "lastName": "Braun",
+          "gender": "F",
+          "age": 53,
+          "phone": "+49 160 7439912",
+          "isPartnerOf": "96a39b02-c5fe-495d-be5c-200c38fd769e"
+        },
+        {
+          "id": "7d68b0ea-33db-43be-965c-09c10f0e7913",
+          "firstName": "Julian",
+          "lastName": "Klein",
+          "gender": "M",
+          "age": 27,
+          "phone": "+49 170 0642874",
+          "isPartnerOf": "e3ed14da-f41d-4d1f-a6d7-cddb23d5e5c2"
+        },
+        {
+          "id": "e3ed14da-f41d-4d1f-a6d7-cddb23d5e5c2",
+          "firstName": "Sophie",
+          "lastName": "Müller",
+          "gender": "F",
+          "age": 62,
+          "phone": "+49 151 3276891",
+          "isPartnerOf": "7d68b0ea-33db-43be-965c-09c10f0e7913"
+        },
+        {
+          "id": "7b96dd77-b842-4014-ae44-753eedc50fd0",
+          "firstName": "Monika",
+          "lastName": "Schneider",
+          "gender": "F",
+          "age": 40,
+          "phone": "+49 151 8028332",
+          "isPartnerOf": null
+        },
+        {
+          "id": "77b8a5d9-c163-4454-99dc-009d1c798080",
+          "firstName": "Markus",
+          "lastName": "Wagner",
+          "gender": "M",
+          "age": 53,
+          "phone": "+49 172 0385936",
+          "isPartnerOf": "9c91f506-0074-48e8-9590-b354f3d1e88a"
+        },
+        {
+          "id": "9c91f506-0074-48e8-9590-b354f3d1e88a",
+          "firstName": "Hannah",
+          "lastName": "Schulz",
+          "gender": "F",
+          "age": 43,
+          "phone": "+49 173 8202589",
+          "isPartnerOf": "77b8a5d9-c163-4454-99dc-009d1c798080"
+        },
+        {
+          "id": "9f186c68-fe73-492f-a9a1-af9b4e59891f",
+          "firstName": "Leon",
+          "lastName": "Richter",
+          "gender": "M",
+          "age": 56,
+          "phone": "+49 170 5904166",
+          "isPartnerOf": null
+        },
+        {
+          "id": "2e301c23-b2a3-40e8-a25f-da10cfc45764",
+          "firstName": "Lukas",
+          "lastName": "Schwarz",
+          "gender": "M",
+          "age": 60,
+          "phone": "+49 172 9238818",
+          "isPartnerOf": "9687bb04-fa0a-46fc-b985-d32930b548a6"
+        },
+        {
+          "id": "9687bb04-fa0a-46fc-b985-d32930b548a6",
+          "firstName": "Sandra",
+          "lastName": "Krüger",
+          "gender": "F",
+          "age": 43,
+          "phone": "+49 175 4058998",
+          "isPartnerOf": "2e301c23-b2a3-40e8-a25f-da10cfc45764"
+        },
+        {
+          "id": "7824e939-d57c-41d7-8c7a-9782db7a7164",
+          "firstName": "Max",
+          "lastName": "Braun",
+          "gender": "M",
+          "age": 54,
+          "phone": "+49 151 9275691",
+          "isPartnerOf": "a2619cfb-b620-4b6c-927e-85cb0e5b6dd4"
+        },
+        {
+          "id": "a2619cfb-b620-4b6c-927e-85cb0e5b6dd4",
+          "firstName": "Maria",
+          "lastName": "Hofmann",
+          "gender": "F",
+          "age": 27,
+          "phone": "+49 170 0140900",
+          "isPartnerOf": "7824e939-d57c-41d7-8c7a-9782db7a7164"
+        },
+        {
+          "id": "c4c2d1d5-b925-4a14-8151-6adacd9b07c4",
+          "firstName": "Christian",
+          "lastName": "Becker",
+          "gender": "M",
+          "age": 34,
+          "phone": "+49 175 9401095",
+          "isPartnerOf": "1c775636-e4ed-46d8-b5d3-981b6fee3753"
+        },
+        {
+          "id": "1c775636-e4ed-46d8-b5d3-981b6fee3753",
+          "firstName": "Monika",
+          "lastName": "Müller",
+          "gender": "F",
+          "age": 63,
+          "phone": "+49 175 8442651",
+          "isPartnerOf": "c4c2d1d5-b925-4a14-8151-6adacd9b07c4"
+        },
+        {
+          "id": "61f06ca3-9c80-40cb-9b4f-5102086f65fb",
+          "firstName": "Petra",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 37,
+          "phone": "+49 162 2626434",
+          "isPartnerOf": null
+        }
+      ]
+    },
+    {
+      "id": "d7464c90-e7d5-4adc-95bd-03d472fba018",
+      "name": "Argentine Tango",
+      "schedule": [
+        "Montag 20:00",
+        "Freitag 16:30"
+      ],
+      "participants": [
+        {
+          "id": "1bc25f3a-5008-4696-be91-40aa500a7067",
+          "firstName": "Felix",
+          "lastName": "Klein",
+          "gender": "M",
+          "age": 42,
+          "phone": "+49 151 6579049",
+          "isPartnerOf": null
+        },
+        {
+          "id": "23d0d7d8-a079-42ad-a48f-422ea06cb32d",
+          "firstName": "Thomas",
+          "lastName": "Koch",
+          "gender": "M",
+          "age": 46,
+          "phone": "+49 172 5966839",
+          "isPartnerOf": null
+        },
+        {
+          "id": "d6bcda8d-d77f-4726-bed9-a02a8af17c93",
+          "firstName": "Monika",
+          "lastName": "Wolf",
+          "gender": "F",
+          "age": 32,
+          "phone": "+49 171 9730479",
+          "isPartnerOf": null
+        },
+        {
+          "id": "d36d5662-24e7-4441-bb76-c0bad7ddb151",
+          "firstName": "Leon",
+          "lastName": "Bauer",
+          "gender": "M",
+          "age": 22,
+          "phone": "+49 175 8235006",
+          "isPartnerOf": "f9dda719-8caf-4f7d-b792-c011397ddb74"
+        },
+        {
+          "id": "f9dda719-8caf-4f7d-b792-c011397ddb74",
+          "firstName": "Anna",
+          "lastName": "Lange",
+          "gender": "F",
+          "age": 50,
+          "phone": "+49 160 7365630",
+          "isPartnerOf": "d36d5662-24e7-4441-bb76-c0bad7ddb151"
+        },
+        {
+          "id": "4e38c709-4436-445d-b42e-d3750aca340a",
+          "firstName": "Markus",
+          "lastName": "Braun",
+          "gender": "M",
+          "age": 44,
+          "phone": "+49 160 2262479",
+          "isPartnerOf": null
+        },
+        {
+          "id": "652e3ca2-bea0-48a8-817f-10513b2cc4e5",
+          "firstName": "Tobias",
+          "lastName": "Neumann",
+          "gender": "M",
+          "age": 20,
+          "phone": "+49 152 4493424",
+          "isPartnerOf": null
+        },
+        {
+          "id": "05a5f319-5751-4534-bf60-28fadbc322ff",
+          "firstName": "Paul",
+          "lastName": "Braun",
+          "gender": "M",
+          "age": 60,
+          "phone": "+49 152 5223889",
+          "isPartnerOf": "76a0d607-52d6-4c43-9576-d0bccb10a8ac"
+        },
+        {
+          "id": "76a0d607-52d6-4c43-9576-d0bccb10a8ac",
+          "firstName": "Julia",
+          "lastName": "Lange",
+          "gender": "F",
+          "age": 47,
+          "phone": "+49 152 2891012",
+          "isPartnerOf": "05a5f319-5751-4534-bf60-28fadbc322ff"
+        },
+        {
+          "id": "2e31f870-4ec0-42ad-bc01-4459e27c20d1",
+          "firstName": "Daniel",
+          "lastName": "Weber",
+          "gender": "M",
+          "age": 65,
+          "phone": "+49 160 2757188",
+          "isPartnerOf": "17fecda4-db90-45c4-b5fa-15e4215419c2"
+        },
+        {
+          "id": "17fecda4-db90-45c4-b5fa-15e4215419c2",
+          "firstName": "Marie",
+          "lastName": "Neumann",
+          "gender": "F",
+          "age": 26,
+          "phone": "+49 175 1399695",
+          "isPartnerOf": "2e31f870-4ec0-42ad-bc01-4459e27c20d1"
+        },
+        {
+          "id": "b22106f3-71fc-4599-9251-893f085c572b",
+          "firstName": "Julia",
+          "lastName": "Hofmann",
+          "gender": "F",
+          "age": 25,
+          "phone": "+49 170 1267259",
+          "isPartnerOf": null
+        },
+        {
+          "id": "ea454c17-9251-4dbf-aa7e-1a4f3fa6b267",
+          "firstName": "Alexander",
+          "lastName": "Becker",
+          "gender": "M",
+          "age": 26,
+          "phone": "+49 160 5109560",
+          "isPartnerOf": "2c9cc126-31de-42ef-8d9f-a21a5e11021d"
+        },
+        {
+          "id": "2c9cc126-31de-42ef-8d9f-a21a5e11021d",
+          "firstName": "Petra",
+          "lastName": "Schwarz",
+          "gender": "F",
+          "age": 22,
+          "phone": "+49 162 1511567",
+          "isPartnerOf": "ea454c17-9251-4dbf-aa7e-1a4f3fa6b267"
+        },
+        {
+          "id": "b2e6d6d2-f664-44c9-82ea-f3acf1ad3471",
+          "firstName": "Klaus",
+          "lastName": "Meyer",
+          "gender": "M",
+          "age": 32,
+          "phone": "+49 152 5371696",
+          "isPartnerOf": "e994e825-fb20-46a3-8dc8-c037461aa19f"
+        },
+        {
+          "id": "e994e825-fb20-46a3-8dc8-c037461aa19f",
+          "firstName": "Christina",
+          "lastName": "Schröder",
+          "gender": "F",
+          "age": 42,
+          "phone": "+49 175 8538501",
+          "isPartnerOf": "b2e6d6d2-f664-44c9-82ea-f3acf1ad3471"
+        },
+        {
+          "id": "4ba832c5-dc53-4aa1-b9a5-4901bac34a3e",
+          "firstName": "Sophie",
+          "lastName": "Weber",
+          "gender": "F",
+          "age": 56,
+          "phone": "+49 152 4367669",
+          "isPartnerOf": null
+        },
+        {
+          "id": "d215d75e-dfba-484e-b4c7-3c5ac5f5d2ed",
+          "firstName": "Paul",
+          "lastName": "Wolf",
+          "gender": "M",
+          "age": 38,
+          "phone": "+49 172 9316156",
+          "isPartnerOf": "3af0fab3-c0f0-48c8-aa2c-6a765adec802"
+        },
+        {
+          "id": "3af0fab3-c0f0-48c8-aa2c-6a765adec802",
+          "firstName": "Petra",
+          "lastName": "Weber",
+          "gender": "F",
+          "age": 32,
+          "phone": "+49 160 3002399",
+          "isPartnerOf": "d215d75e-dfba-484e-b4c7-3c5ac5f5d2ed"
+        },
+        {
+          "id": "f3414e45-3bc3-443d-9616-fdb59b623f7d",
+          "firstName": "Lukas",
           "lastName": "Schmidt",
           "gender": "M",
           "age": 35,
-          "phone": "+49 151 9896844",
-          "isPartnerOf": "2ecb4693-81a4-4221-9bef-a914e0b0343a"
-        },
+          "phone": "+49 175 3387620",
+          "isPartnerOf": null
+        }
+      ]
+    },
+    {
+      "id": "4c357f5b-7cab-46d0-a4b1-4e71fda53619",
+      "name": "West Coast Swing",
+      "schedule": [
+        "Mittwoch 10:00"
+      ],
+      "participants": [
         {
-          "id": "2ecb4693-81a4-4221-9bef-a914e0b0343a",
-          "firstName": "Birgit",
-          "lastName": "Meyer",
-          "gender": "F",
-          "age": 64,
-          "phone": "+49 172 8636472",
-          "isPartnerOf": "08b64e1f-7eff-4070-a0b2-84694314aea4"
-        },
-        {
-          "id": "44739779-7322-41c2-9624-784275a330de",
-          "firstName": "Bernd",
-          "lastName": "Hartmann",
+          "id": "2c58b430-fd7a-4458-a3d0-850965327e83",
+          "firstName": "Thomas",
+          "lastName": "Braun",
           "gender": "M",
-          "age": 26,
-          "phone": "+49 162 6619029",
-          "isPartnerOf": "515761dc-b634-4ac3-bc35-513ac4ab1262"
+          "age": 31,
+          "phone": "+49 151 5796776",
+          "isPartnerOf": "2c10e948-f3af-4824-800c-7bc3d2f4ce95"
         },
         {
-          "id": "515761dc-b634-4ac3-bc35-513ac4ab1262",
+          "id": "2c10e948-f3af-4824-800c-7bc3d2f4ce95",
+          "firstName": "Sabine",
+          "lastName": "Richter",
+          "gender": "F",
+          "age": 54,
+          "phone": "+49 172 6219211",
+          "isPartnerOf": "2c58b430-fd7a-4458-a3d0-850965327e83"
+        },
+        {
+          "id": "7519ed80-5b12-4adc-bd83-8b3a501bfac4",
+          "firstName": "Sebastian",
+          "lastName": "Koch",
+          "gender": "M",
+          "age": 25,
+          "phone": "+49 170 1236007",
+          "isPartnerOf": "0242d5d6-e757-4ba7-b44b-321fdbc72924"
+        },
+        {
+          "id": "0242d5d6-e757-4ba7-b44b-321fdbc72924",
+          "firstName": "Stefanie",
+          "lastName": "Klein",
+          "gender": "F",
+          "age": 62,
+          "phone": "+49 160 1808429",
+          "isPartnerOf": "7519ed80-5b12-4adc-bd83-8b3a501bfac4"
+        },
+        {
+          "id": "1f486138-0407-4f07-a9d4-6aee3b850f5e",
+          "firstName": "Bernd",
+          "lastName": "Schäfer",
+          "gender": "M",
+          "age": 50,
+          "phone": "+49 162 6613119",
+          "isPartnerOf": "c70178b8-b05b-42de-b66f-35dbc0c1ce79"
+        },
+        {
+          "id": "c70178b8-b05b-42de-b66f-35dbc0c1ce79",
+          "firstName": "Jessica",
+          "lastName": "Fischer",
+          "gender": "F",
+          "age": 54,
+          "phone": "+49 162 9403086",
+          "isPartnerOf": "1f486138-0407-4f07-a9d4-6aee3b850f5e"
+        },
+        {
+          "id": "7cee43ef-5990-4db8-ac96-7cd93f932b50",
+          "firstName": "Lukas",
+          "lastName": "Wolf",
+          "gender": "M",
+          "age": 25,
+          "phone": "+49 170 7290536",
+          "isPartnerOf": "827d95a3-15b4-4fb0-ab29-c2758e730a66"
+        },
+        {
+          "id": "827d95a3-15b4-4fb0-ab29-c2758e730a66",
+          "firstName": "Stefanie",
+          "lastName": "Wagner",
+          "gender": "F",
+          "age": 49,
+          "phone": "+49 171 2472767",
+          "isPartnerOf": "7cee43ef-5990-4db8-ac96-7cd93f932b50"
+        },
+        {
+          "id": "3b7ea373-479a-44ab-bff1-01495f151b31",
+          "firstName": "Tobias",
+          "lastName": "Fischer",
+          "gender": "M",
+          "age": 30,
+          "phone": "+49 160 3298737",
+          "isPartnerOf": null
+        },
+        {
+          "id": "b154bb63-0270-4857-9ed3-665a1abd41a1",
+          "firstName": "Daniel",
+          "lastName": "Fischer",
+          "gender": "M",
+          "age": 37,
+          "phone": "+49 173 9083753",
+          "isPartnerOf": "f25dfdb3-4b2c-4ad2-97e9-6aebd4530c13"
+        },
+        {
+          "id": "f25dfdb3-4b2c-4ad2-97e9-6aebd4530c13",
+          "firstName": "Christina",
+          "lastName": "Zimmermann",
+          "gender": "F",
+          "age": 59,
+          "phone": "+49 171 3714876",
+          "isPartnerOf": "b154bb63-0270-4857-9ed3-665a1abd41a1"
+        },
+        {
+          "id": "b974e540-fb4c-4ce9-9ac8-d74c5a02c7e6",
+          "firstName": "Paul",
+          "lastName": "Krüger",
+          "gender": "M",
+          "age": 48,
+          "phone": "+49 174 1566338",
+          "isPartnerOf": "f88e7889-c499-4a94-a194-f5fd69ae6737"
+        },
+        {
+          "id": "f88e7889-c499-4a94-a194-f5fd69ae6737",
           "firstName": "Laura",
           "lastName": "Müller",
           "gender": "F",
-          "age": 27,
-          "phone": "+49 174 1796671",
-          "isPartnerOf": "44739779-7322-41c2-9624-784275a330de"
-        },
-        {
-          "id": "44b850b1-853b-47ef-8bda-79ce8f1cfd59",
-          "firstName": "Jessica",
-          "lastName": "Wagner",
-          "gender": "F",
-          "age": 46,
-          "phone": "+49 172 2006695",
-          "isPartnerOf": null
-        },
-        {
-          "id": "eafed440-fda0-4b28-bcd4-a5ed60bc97a5",
-          "firstName": "Jürgen",
-          "lastName": "Weber",
-          "gender": "M",
-          "age": 28,
-          "phone": "+49 174 9126689",
-          "isPartnerOf": "586118fa-e2ef-4e9a-b27a-e46c7e4efec0"
-        },
-        {
-          "id": "586118fa-e2ef-4e9a-b27a-e46c7e4efec0",
-          "firstName": "Anja",
-          "lastName": "Wolf",
-          "gender": "F",
-          "age": 38,
-          "phone": "+49 160 0519292",
-          "isPartnerOf": "eafed440-fda0-4b28-bcd4-a5ed60bc97a5"
-        },
-        {
-          "id": "44e3895f-cb72-4c83-9de2-56a47a020440",
-          "firstName": "Birgit",
-          "lastName": "Lange",
-          "gender": "F",
-          "age": 34,
-          "phone": "+49 170 8725875",
-          "isPartnerOf": null
-        },
-        {
-          "id": "8a536ec0-bdcc-4576-aa2b-230eefe85095",
-          "firstName": "Lukas",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 59,
-          "phone": "+49 174 5923823",
-          "isPartnerOf": "b359adea-1d17-4946-9808-85a8faf35e14"
-        },
-        {
-          "id": "b359adea-1d17-4946-9808-85a8faf35e14",
-          "firstName": "Maria",
-          "lastName": "Schneider",
-          "gender": "F",
-          "age": 41,
-          "phone": "+49 172 2711499",
-          "isPartnerOf": "8a536ec0-bdcc-4576-aa2b-230eefe85095"
-        }
-      ]
-    },
-    {
-      "id": "83c29165-7c11-4c65-b276-3760a897eaf5",
-      "name": "Line Dance",
-      "participants": [
-        {
-          "id": "1f1a2e19-5b8d-4022-a685-bcb22deb245a",
-          "firstName": "Leon",
-          "lastName": "Schröder",
-          "gender": "M",
-          "age": 33,
-          "phone": "+49 160 4701880",
-          "isPartnerOf": null
-        },
-        {
-          "id": "db3b41af-9570-46b5-93dc-1a3cecf36285",
-          "firstName": "Jan",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 25,
-          "phone": "+49 160 8186953",
-          "isPartnerOf": "36170f6d-9584-48f8-a8b8-d21aef35b2da"
-        },
-        {
-          "id": "36170f6d-9584-48f8-a8b8-d21aef35b2da",
-          "firstName": "Monika",
-          "lastName": "Weber",
-          "gender": "F",
-          "age": 41,
-          "phone": "+49 170 6790387",
-          "isPartnerOf": "db3b41af-9570-46b5-93dc-1a3cecf36285"
-        },
-        {
-          "id": "b7384a64-cc90-4056-a802-82a149ac2e8b",
-          "firstName": "Andreas",
-          "lastName": "Schulz",
-          "gender": "M",
-          "age": 56,
-          "phone": "+49 170 0511243",
-          "isPartnerOf": "b1892cc2-70a3-47ef-857f-ed2fae66da4f"
-        },
-        {
-          "id": "b1892cc2-70a3-47ef-857f-ed2fae66da4f",
-          "firstName": "Lea",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 60,
-          "phone": "+49 174 3434265",
-          "isPartnerOf": "b7384a64-cc90-4056-a802-82a149ac2e8b"
-        },
-        {
-          "id": "ee4cceee-f659-4983-b584-efdce19a102d",
-          "firstName": "Stefan",
-          "lastName": "Weber",
-          "gender": "M",
-          "age": 35,
-          "phone": "+49 170 6401353",
-          "isPartnerOf": "6cb16dd6-77b1-4036-8cc0-946a2c1267af"
-        },
-        {
-          "id": "6cb16dd6-77b1-4036-8cc0-946a2c1267af",
-          "firstName": "Petra",
-          "lastName": "Braun",
-          "gender": "F",
           "age": 36,
-          "phone": "+49 151 2567375",
-          "isPartnerOf": "ee4cceee-f659-4983-b584-efdce19a102d"
+          "phone": "+49 162 5158438",
+          "isPartnerOf": "b974e540-fb4c-4ce9-9ac8-d74c5a02c7e6"
         },
         {
-          "id": "132e2d99-7bdd-4d6a-b6e8-0c05a4fea753",
-          "firstName": "Jonas",
-          "lastName": "Koch",
-          "gender": "M",
-          "age": 21,
-          "phone": "+49 152 7315272",
-          "isPartnerOf": "3b8f0c31-7ef4-4d19-876a-7a8f82b6c6f7"
-        },
-        {
-          "id": "3b8f0c31-7ef4-4d19-876a-7a8f82b6c6f7",
-          "firstName": "Jessica",
-          "lastName": "Meyer",
-          "gender": "F",
-          "age": 32,
-          "phone": "+49 170 0497969",
-          "isPartnerOf": "132e2d99-7bdd-4d6a-b6e8-0c05a4fea753"
-        },
-        {
-          "id": "ba61fac8-af80-435c-9443-4dbaa1624ab3",
-          "firstName": "Tim",
-          "lastName": "Schmidt",
-          "gender": "M",
-          "age": 31,
-          "phone": "+49 172 9574706",
-          "isPartnerOf": null
-        },
-        {
-          "id": "a57c8fa3-4ee7-41e6-9265-a9a38904e12a",
-          "firstName": "Melanie",
-          "lastName": "Hartmann",
-          "gender": "F",
-          "age": 62,
-          "phone": "+49 175 3488154",
-          "isPartnerOf": null
-        },
-        {
-          "id": "18dff151-f3f5-4e70-a07b-ebce8e13d64a",
-          "firstName": "Martin",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 41,
-          "phone": "+49 151 3945218",
-          "isPartnerOf": null
-        },
-        {
-          "id": "e076dcf8-0ed3-450b-a022-f9d434184a62",
-          "firstName": "Jan",
-          "lastName": "Schröder",
-          "gender": "M",
-          "age": 20,
-          "phone": "+49 173 5827884",
-          "isPartnerOf": "a4156f73-77b5-41a9-969c-0ffe1a957895"
-        },
-        {
-          "id": "a4156f73-77b5-41a9-969c-0ffe1a957895",
-          "firstName": "Anja",
-          "lastName": "Wolf",
-          "gender": "F",
-          "age": 58,
-          "phone": "+49 152 9525262",
-          "isPartnerOf": "e076dcf8-0ed3-450b-a022-f9d434184a62"
-        },
-        {
-          "id": "f48311e8-d4b6-495c-86c3-67ccf8f11492",
-          "firstName": "Daniel",
-          "lastName": "Richter",
-          "gender": "M",
-          "age": 57,
-          "phone": "+49 174 4731092",
-          "isPartnerOf": "2bfb1fe2-b6ca-439b-b1ac-6f3ee0c2b5cd"
-        },
-        {
-          "id": "2bfb1fe2-b6ca-439b-b1ac-6f3ee0c2b5cd",
-          "firstName": "Stefanie",
-          "lastName": "Meyer",
-          "gender": "F",
-          "age": 54,
-          "phone": "+49 173 9145419",
-          "isPartnerOf": "f48311e8-d4b6-495c-86c3-67ccf8f11492"
-        },
-        {
-          "id": "83bc3764-e657-4469-86cf-9f78bbca6715",
-          "firstName": "Michael",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 18,
-          "phone": "+49 171 6307604",
-          "isPartnerOf": null
-        }
-      ]
-    },
-    {
-      "id": "123ffc2f-25dd-48f5-b5bf-0707d87ee228",
-      "name": "Salsa",
-      "participants": [
-        {
-          "id": "6e6ca6c3-6431-45ea-8e8d-12bdaa629983",
-          "firstName": "Lukas",
-          "lastName": "Fischer",
-          "gender": "M",
-          "age": 49,
-          "phone": "+49 162 7129346",
-          "isPartnerOf": "c496e0a5-bc74-492d-a45c-7b6e82e5ba69"
-        },
-        {
-          "id": "c496e0a5-bc74-492d-a45c-7b6e82e5ba69",
-          "firstName": "Sophie",
-          "lastName": "Bauer",
-          "gender": "F",
-          "age": 23,
-          "phone": "+49 162 9253774",
-          "isPartnerOf": "6e6ca6c3-6431-45ea-8e8d-12bdaa629983"
-        },
-        {
-          "id": "700c813a-1f1c-4bae-825b-4b5a862238d0",
-          "firstName": "Felix",
-          "lastName": "Müller",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 170 4533179",
-          "isPartnerOf": "94aa52b3-a3f9-49d9-a521-27494d673562"
-        },
-        {
-          "id": "94aa52b3-a3f9-49d9-a521-27494d673562",
-          "firstName": "Christina",
-          "lastName": "Schneider",
-          "gender": "F",
-          "age": 34,
-          "phone": "+49 170 7502646",
-          "isPartnerOf": "700c813a-1f1c-4bae-825b-4b5a862238d0"
-        },
-        {
-          "id": "6f9d7def-c518-46a6-a8be-6dccc14638bc",
-          "firstName": "Stefan",
-          "lastName": "Müller",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 171 6693379",
-          "isPartnerOf": "ecb26aa9-8e5f-4ac6-9409-5a4872939681"
-        },
-        {
-          "id": "ecb26aa9-8e5f-4ac6-9409-5a4872939681",
-          "firstName": "Katharina",
-          "lastName": "Krüger",
-          "gender": "F",
-          "age": 22,
-          "phone": "+49 170 0411489",
-          "isPartnerOf": "6f9d7def-c518-46a6-a8be-6dccc14638bc"
-        },
-        {
-          "id": "e4968297-9700-4697-bc9e-9d001e0a94cc",
-          "firstName": "Julian",
-          "lastName": "Hofmann",
-          "gender": "M",
-          "age": 20,
-          "phone": "+49 171 7888535",
-          "isPartnerOf": null
-        },
-        {
-          "id": "3dd25da8-66be-4552-8a0e-ca4d8015a092",
-          "firstName": "Paul",
-          "lastName": "Hoffmann",
-          "gender": "M",
-          "age": 19,
-          "phone": "+49 175 2286324",
-          "isPartnerOf": "0b5d6a60-c6b0-4c7d-ac4c-990e087bb889"
-        },
-        {
-          "id": "0b5d6a60-c6b0-4c7d-ac4c-990e087bb889",
-          "firstName": "Sabine",
-          "lastName": "Schäfer",
-          "gender": "F",
-          "age": 18,
-          "phone": "+49 162 3497908",
-          "isPartnerOf": "3dd25da8-66be-4552-8a0e-ca4d8015a092"
-        },
-        {
-          "id": "3d208ea0-bbf7-4441-b4b9-4d1b9d526e50",
-          "firstName": "Stefan",
-          "lastName": "Fischer",
-          "gender": "M",
-          "age": 34,
-          "phone": "+49 175 8228338",
-          "isPartnerOf": "7108eec9-98e7-4185-8f54-4ef72d5cd908"
-        },
-        {
-          "id": "7108eec9-98e7-4185-8f54-4ef72d5cd908",
-          "firstName": "Hannah",
-          "lastName": "Klein",
-          "gender": "F",
-          "age": 25,
-          "phone": "+49 173 1844661",
-          "isPartnerOf": "3d208ea0-bbf7-4441-b4b9-4d1b9d526e50"
-        },
-        {
-          "id": "a35b3b4a-6c7e-4f88-9805-d917f7e99154",
-          "firstName": "Julian",
-          "lastName": "Bauer",
-          "gender": "M",
-          "age": 63,
-          "phone": "+49 172 7860251",
-          "isPartnerOf": "90ac9f5e-eec4-47d8-9721-1c7bea39ede3"
-        },
-        {
-          "id": "90ac9f5e-eec4-47d8-9721-1c7bea39ede3",
-          "firstName": "Lea",
-          "lastName": "Klein",
-          "gender": "F",
-          "age": 61,
-          "phone": "+49 151 4522578",
-          "isPartnerOf": "a35b3b4a-6c7e-4f88-9805-d917f7e99154"
-        },
-        {
-          "id": "95b16475-1ad7-43df-956a-e8b85a6595b6",
-          "firstName": "Jessica",
-          "lastName": "Braun",
-          "gender": "F",
-          "age": 28,
-          "phone": "+49 175 4108641",
-          "isPartnerOf": null
-        },
-        {
-          "id": "72c317a2-8e2e-4095-918d-d65baf12f01e",
-          "firstName": "Tim",
-          "lastName": "Wolf",
-          "gender": "M",
-          "age": 62,
-          "phone": "+49 170 0395695",
-          "isPartnerOf": "47dfa665-6f7d-44d5-aa80-7fd6f979338c"
-        },
-        {
-          "id": "47dfa665-6f7d-44d5-aa80-7fd6f979338c",
-          "firstName": "Katharina",
-          "lastName": "Bauer",
-          "gender": "F",
-          "age": 55,
-          "phone": "+49 162 7804076",
-          "isPartnerOf": "72c317a2-8e2e-4095-918d-d65baf12f01e"
-        }
-      ]
-    },
-    {
-      "id": "5c4e9220-14ce-4e4c-9210-dc6409262af5",
-      "name": "Bachata",
-      "participants": [
-        {
-          "id": "a8bf020d-e87d-43ea-baad-67d2e9fa2e33",
-          "firstName": "Andreas",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 35,
-          "phone": "+49 171 5060253",
-          "isPartnerOf": "1686fbc3-10cd-4806-8265-5e115e336f9d"
-        },
-        {
-          "id": "1686fbc3-10cd-4806-8265-5e115e336f9d",
-          "firstName": "Marie",
-          "lastName": "Wagner",
-          "gender": "F",
-          "age": 44,
-          "phone": "+49 160 6139724",
-          "isPartnerOf": "a8bf020d-e87d-43ea-baad-67d2e9fa2e33"
-        },
-        {
-          "id": "14a608a3-9977-4ceb-bde3-f0d9997ec1ba",
-          "firstName": "Leon",
-          "lastName": "Koch",
-          "gender": "M",
-          "age": 62,
-          "phone": "+49 173 5141939",
-          "isPartnerOf": null
-        },
-        {
-          "id": "9d17b787-6a54-420f-9bc6-d3d585a285d2",
-          "firstName": "Christian",
-          "lastName": "Hoffmann",
-          "gender": "M",
-          "age": 36,
-          "phone": "+49 152 7696083",
-          "isPartnerOf": "777a1558-1a9b-41e8-94f3-a5f71b19f7be"
-        },
-        {
-          "id": "777a1558-1a9b-41e8-94f3-a5f71b19f7be",
-          "firstName": "Sophie",
-          "lastName": "Lange",
-          "gender": "F",
-          "age": 51,
-          "phone": "+49 162 2910505",
-          "isPartnerOf": "9d17b787-6a54-420f-9bc6-d3d585a285d2"
-        },
-        {
-          "id": "eecab096-104d-4af8-8dc9-ad37f20c7910",
-          "firstName": "Leon",
-          "lastName": "Müller",
-          "gender": "M",
-          "age": 42,
-          "phone": "+49 160 1677772",
-          "isPartnerOf": "444e1e22-f4f5-444d-a244-78430330ec53"
-        },
-        {
-          "id": "444e1e22-f4f5-444d-a244-78430330ec53",
-          "firstName": "Lisa",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 32,
-          "phone": "+49 151 3428177",
-          "isPartnerOf": "eecab096-104d-4af8-8dc9-ad37f20c7910"
-        },
-        {
-          "id": "0e04aa42-c4de-4b3a-97c6-8c7038e99f0f",
-          "firstName": "Klaus",
-          "lastName": "Richter",
-          "gender": "M",
-          "age": 43,
-          "phone": "+49 174 2415094",
-          "isPartnerOf": "e1274665-b21a-462d-bae9-bb38aefcec5f"
-        },
-        {
-          "id": "e1274665-b21a-462d-bae9-bb38aefcec5f",
-          "firstName": "Jessica",
-          "lastName": "Hartmann",
-          "gender": "F",
-          "age": 57,
-          "phone": "+49 151 2968585",
-          "isPartnerOf": "0e04aa42-c4de-4b3a-97c6-8c7038e99f0f"
-        },
-        {
-          "id": "6657edc0-882d-4dfb-b7ea-ed46ec3fc7e7",
+          "id": "2a34cd71-b9c3-478c-a7d9-6d29c3469ffa",
           "firstName": "Thomas",
-          "lastName": "Bauer",
-          "gender": "M",
-          "age": 54,
-          "phone": "+49 173 4506614",
-          "isPartnerOf": "ffc04e5f-2077-4739-bb79-6dfadae5025d"
-        },
-        {
-          "id": "ffc04e5f-2077-4739-bb79-6dfadae5025d",
-          "firstName": "Hannah",
-          "lastName": "Neumann",
-          "gender": "F",
-          "age": 50,
-          "phone": "+49 175 2378012",
-          "isPartnerOf": "6657edc0-882d-4dfb-b7ea-ed46ec3fc7e7"
-        },
-        {
-          "id": "43dd22d7-7ffe-42e6-adfc-6ea1daafb1c4",
-          "firstName": "Michael",
-          "lastName": "Meyer",
-          "gender": "M",
-          "age": 38,
-          "phone": "+49 170 8206313",
-          "isPartnerOf": "0c0e222e-2215-4cd4-a195-d05b30302a84"
-        },
-        {
-          "id": "0c0e222e-2215-4cd4-a195-d05b30302a84",
-          "firstName": "Sabine",
-          "lastName": "Wolf",
-          "gender": "F",
-          "age": 52,
-          "phone": "+49 151 8467799",
-          "isPartnerOf": "43dd22d7-7ffe-42e6-adfc-6ea1daafb1c4"
-        },
-        {
-          "id": "1b218ba4-6b4c-42ea-a182-06d14d659d82",
-          "firstName": "Felix",
-          "lastName": "Schwarz",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 173 9945236",
-          "isPartnerOf": "f0530ded-4448-457e-80f8-89f858a53e6a"
-        },
-        {
-          "id": "f0530ded-4448-457e-80f8-89f858a53e6a",
-          "firstName": "Hannah",
-          "lastName": "Schmidt",
-          "gender": "F",
-          "age": 27,
-          "phone": "+49 173 4483316",
-          "isPartnerOf": "1b218ba4-6b4c-42ea-a182-06d14d659d82"
-        },
-        {
-          "id": "957d57df-f93f-4b53-8ce0-73fd7a2badbb",
-          "firstName": "Bernd",
-          "lastName": "Schäfer",
-          "gender": "M",
-          "age": 63,
-          "phone": "+49 171 5766742",
-          "isPartnerOf": "ba2ac0f3-59a0-4f81-b53a-2ebc86a552d6"
-        },
-        {
-          "id": "ba2ac0f3-59a0-4f81-b53a-2ebc86a552d6",
-          "firstName": "Sophie",
-          "lastName": "Hartmann",
-          "gender": "F",
-          "age": 45,
-          "phone": "+49 171 4032831",
-          "isPartnerOf": "957d57df-f93f-4b53-8ce0-73fd7a2badbb"
-        },
-        {
-          "id": "67314c87-c106-4ab9-868a-88cbe1b8bbfe",
-          "firstName": "Leon",
-          "lastName": "Hoffmann",
-          "gender": "M",
-          "age": 37,
-          "phone": "+49 152 9186914",
-          "isPartnerOf": null
-        }
-      ]
-    },
-    {
-      "id": "d7edb0b7-d39c-4eac-81c5-0ddea9405142",
-      "name": "Discofox",
-      "participants": [
-        {
-          "id": "e233d92e-eae0-4af0-80a0-b762b9e1a24d",
-          "firstName": "Martin",
-          "lastName": "Schäfer",
-          "gender": "M",
-          "age": 41,
-          "phone": "+49 174 6044784",
-          "isPartnerOf": "13f7cedc-8f29-46ee-827c-d52ec3500923"
-        },
-        {
-          "id": "13f7cedc-8f29-46ee-827c-d52ec3500923",
-          "firstName": "Maria",
-          "lastName": "Schwarz",
-          "gender": "F",
-          "age": 37,
-          "phone": "+49 175 4795950",
-          "isPartnerOf": "e233d92e-eae0-4af0-80a0-b762b9e1a24d"
-        },
-        {
-          "id": "1b54f2ef-5692-4b53-b268-160658fb6cbc",
-          "firstName": "Felix",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 41,
-          "phone": "+49 170 1602129",
-          "isPartnerOf": "35b62b09-3f32-4c8a-b857-bbbf4b513969"
-        },
-        {
-          "id": "35b62b09-3f32-4c8a-b857-bbbf4b513969",
-          "firstName": "Lena",
-          "lastName": "Bauer",
-          "gender": "F",
-          "age": 47,
-          "phone": "+49 160 7013178",
-          "isPartnerOf": "1b54f2ef-5692-4b53-b268-160658fb6cbc"
-        },
-        {
-          "id": "a20cb8dc-17d0-4be9-a385-bea225283abf",
-          "firstName": "Andreas",
-          "lastName": "Braun",
-          "gender": "M",
-          "age": 33,
-          "phone": "+49 162 4846134",
-          "isPartnerOf": "92f9d587-3b98-4b05-8029-894d9355b9b9"
-        },
-        {
-          "id": "92f9d587-3b98-4b05-8029-894d9355b9b9",
-          "firstName": "Jessica",
-          "lastName": "Lange",
-          "gender": "F",
-          "age": 19,
-          "phone": "+49 171 3083363",
-          "isPartnerOf": "a20cb8dc-17d0-4be9-a385-bea225283abf"
-        },
-        {
-          "id": "06c6d314-e897-4620-a7e5-8ce3f691a2dd",
-          "firstName": "Klaus",
-          "lastName": "Schulz",
-          "gender": "M",
-          "age": 56,
-          "phone": "+49 160 2729806",
-          "isPartnerOf": null
-        },
-        {
-          "id": "ae80c132-47d8-4ac9-a602-c5b85e117454",
-          "firstName": "Stefanie",
-          "lastName": "Fischer",
-          "gender": "F",
-          "age": 53,
-          "phone": "+49 171 0743789",
-          "isPartnerOf": null
-        },
-        {
-          "id": "0ad66d8b-de00-4549-9d8e-334f518aa2b9",
-          "firstName": "Alexander",
-          "lastName": "Schmidt",
-          "gender": "M",
-          "age": 43,
-          "phone": "+49 171 5614321",
-          "isPartnerOf": "d43707b7-ae1f-4c9b-a0d9-4e139e07db3b"
-        },
-        {
-          "id": "d43707b7-ae1f-4c9b-a0d9-4e139e07db3b",
-          "firstName": "Jessica",
-          "lastName": "Schwarz",
-          "gender": "F",
-          "age": 29,
-          "phone": "+49 162 9209895",
-          "isPartnerOf": "0ad66d8b-de00-4549-9d8e-334f518aa2b9"
-        },
-        {
-          "id": "1b5c507f-46e0-4266-a967-aa1138228dae",
-          "firstName": "Christian",
-          "lastName": "Schwarz",
-          "gender": "M",
-          "age": 31,
-          "phone": "+49 173 8512486",
-          "isPartnerOf": "114fdbbb-4c79-4612-a656-4b60e20d18a1"
-        },
-        {
-          "id": "114fdbbb-4c79-4612-a656-4b60e20d18a1",
-          "firstName": "Melanie",
-          "lastName": "Wolf",
-          "gender": "F",
-          "age": 21,
-          "phone": "+49 151 4280909",
-          "isPartnerOf": "1b5c507f-46e0-4266-a967-aa1138228dae"
-        },
-        {
-          "id": "449eae6e-cdfc-4eae-aa2d-f28135b68d2e",
-          "firstName": "Christian",
-          "lastName": "Schmidt",
-          "gender": "M",
-          "age": 19,
-          "phone": "+49 173 2097146",
-          "isPartnerOf": "7c4f2e74-4b30-45bb-8dec-c033f824e137"
-        },
-        {
-          "id": "7c4f2e74-4b30-45bb-8dec-c033f824e137",
-          "firstName": "Katharina",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 23,
-          "phone": "+49 174 4715571",
-          "isPartnerOf": "449eae6e-cdfc-4eae-aa2d-f28135b68d2e"
-        },
-        {
-          "id": "b456ef25-7add-4661-9514-10abd2f8e3dd",
-          "firstName": "Max",
-          "lastName": "Klein",
-          "gender": "M",
-          "age": 27,
-          "phone": "+49 174 0521834",
-          "isPartnerOf": null
-        },
-        {
-          "id": "b28159f4-c235-4031-91da-b8ccb7f9c744",
-          "firstName": "Thomas",
-          "lastName": "Weber",
-          "gender": "M",
-          "age": 21,
-          "phone": "+49 172 3793741",
-          "isPartnerOf": "5b13d785-f0c1-484c-af82-143986f52a3e"
-        },
-        {
-          "id": "5b13d785-f0c1-484c-af82-143986f52a3e",
-          "firstName": "Melanie",
-          "lastName": "Bauer",
-          "gender": "F",
-          "age": 55,
-          "phone": "+49 174 9453193",
-          "isPartnerOf": "b28159f4-c235-4031-91da-b8ccb7f9c744"
-        },
-        {
-          "id": "a3041134-9aa7-4561-b874-10385416c34e",
-          "firstName": "Jürgen",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 152 5931918",
-          "isPartnerOf": "87f4ed4e-adc7-4c9e-9afb-32e317160473"
-        },
-        {
-          "id": "87f4ed4e-adc7-4c9e-9afb-32e317160473",
-          "firstName": "Sophie",
-          "lastName": "Wagner",
-          "gender": "F",
-          "age": 25,
-          "phone": "+49 171 7955284",
-          "isPartnerOf": "a3041134-9aa7-4561-b874-10385416c34e"
-        },
-        {
-          "id": "82067dac-729a-497a-95f1-ac90784884f3",
-          "firstName": "Sebastian",
-          "lastName": "Schäfer",
-          "gender": "M",
-          "age": 63,
-          "phone": "+49 172 9512998",
-          "isPartnerOf": null
-        },
-        {
-          "id": "b1518a61-00cd-4f3f-a31a-6796900c0028",
-          "firstName": "Anja",
-          "lastName": "Becker",
-          "gender": "F",
-          "age": 46,
-          "phone": "+49 173 9617915",
-          "isPartnerOf": null
-        }
-      ]
-    },
-    {
-      "id": "823b581e-2f01-4751-97a0-63f72195fb66",
-      "name": "Argentine Tango",
-      "participants": [
-        {
-          "id": "99630f00-4e48-4600-806d-3ef8b21aff73",
-          "firstName": "Daniel",
-          "lastName": "Richter",
-          "gender": "M",
-          "age": 54,
-          "phone": "+49 160 5990089",
-          "isPartnerOf": null
-        },
-        {
-          "id": "4a82576f-b2e6-4583-97ef-9c211d871ddc",
-          "firstName": "Andreas",
-          "lastName": "Hoffmann",
-          "gender": "M",
-          "age": 63,
-          "phone": "+49 174 1181112",
-          "isPartnerOf": "8cabb678-9345-4b37-99a2-bee9e2a18ef7"
-        },
-        {
-          "id": "8cabb678-9345-4b37-99a2-bee9e2a18ef7",
-          "firstName": "Lisa",
-          "lastName": "Lange",
-          "gender": "F",
-          "age": 19,
-          "phone": "+49 160 9506507",
-          "isPartnerOf": "4a82576f-b2e6-4583-97ef-9c211d871ddc"
-        },
-        {
-          "id": "94ae4e4e-a4a0-4129-badd-4d71847be710",
-          "firstName": "Max",
-          "lastName": "Lange",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 160 7505326",
-          "isPartnerOf": "186adba1-5e48-4cef-93e0-01216275a728"
-        },
-        {
-          "id": "186adba1-5e48-4cef-93e0-01216275a728",
-          "firstName": "Sophie",
-          "lastName": "Schneider",
-          "gender": "F",
-          "age": 38,
-          "phone": "+49 152 7095953",
-          "isPartnerOf": "94ae4e4e-a4a0-4129-badd-4d71847be710"
-        },
-        {
-          "id": "f846a632-cd0a-4c2a-9965-7d7f19e8a2b4",
-          "firstName": "Jonas",
-          "lastName": "Klein",
-          "gender": "M",
-          "age": 27,
-          "phone": "+49 174 3661553",
-          "isPartnerOf": "93299fab-179c-4347-8a96-d001f4af2991"
-        },
-        {
-          "id": "93299fab-179c-4347-8a96-d001f4af2991",
-          "firstName": "Sarah",
-          "lastName": "Hoffmann",
-          "gender": "F",
-          "age": 39,
-          "phone": "+49 152 6235692",
-          "isPartnerOf": "f846a632-cd0a-4c2a-9965-7d7f19e8a2b4"
-        },
-        {
-          "id": "c4073287-d784-4592-9b84-5f2711fa7146",
-          "firstName": "Leon",
-          "lastName": "Lange",
-          "gender": "M",
-          "age": 39,
-          "phone": "+49 172 8286424",
-          "isPartnerOf": "c6aa3e8e-bcb0-4679-b782-abf2a53c27be"
-        },
-        {
-          "id": "c6aa3e8e-bcb0-4679-b782-abf2a53c27be",
-          "firstName": "Petra",
-          "lastName": "Wagner",
-          "gender": "F",
-          "age": 59,
-          "phone": "+49 173 4570429",
-          "isPartnerOf": "c4073287-d784-4592-9b84-5f2711fa7146"
-        },
-        {
-          "id": "5055df1e-f132-4fec-bdd0-cd5943dc95bc",
-          "firstName": "Max",
-          "lastName": "Bauer",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 152 4495738",
-          "isPartnerOf": "ef483630-1845-4ca9-aa3a-9fd797bb3561"
-        },
-        {
-          "id": "ef483630-1845-4ca9-aa3a-9fd797bb3561",
-          "firstName": "Tanja",
-          "lastName": "Becker",
-          "gender": "F",
-          "age": 50,
-          "phone": "+49 171 9738780",
-          "isPartnerOf": "5055df1e-f132-4fec-bdd0-cd5943dc95bc"
-        },
-        {
-          "id": "cce0cb96-3c2c-40c4-9c12-030ede04388c",
-          "firstName": "Martin",
-          "lastName": "Schwarz",
-          "gender": "M",
-          "age": 25,
-          "phone": "+49 151 1506097",
-          "isPartnerOf": "1020ea8a-9488-481e-bc87-0753c50afa5b"
-        },
-        {
-          "id": "1020ea8a-9488-481e-bc87-0753c50afa5b",
-          "firstName": "Julia",
-          "lastName": "Braun",
-          "gender": "F",
-          "age": 44,
-          "phone": "+49 173 0403685",
-          "isPartnerOf": "cce0cb96-3c2c-40c4-9c12-030ede04388c"
-        },
-        {
-          "id": "e7d660f8-e687-4a1a-9ba9-768a82f9d47c",
-          "firstName": "Lisa",
-          "lastName": "Krüger",
-          "gender": "F",
-          "age": 32,
-          "phone": "+49 170 3442824",
-          "isPartnerOf": null
-        },
-        {
-          "id": "cbd8a7c6-bc0d-493e-989b-318a8b6fca29",
-          "firstName": "Lukas",
-          "lastName": "Schmidt",
-          "gender": "M",
-          "age": 44,
-          "phone": "+49 151 5684191",
-          "isPartnerOf": null
-        },
-        {
-          "id": "27c1648b-8b20-45eb-9fc3-6afd35edebb8",
-          "firstName": "Lukas",
-          "lastName": "Meyer",
-          "gender": "M",
-          "age": 64,
-          "phone": "+49 172 4519729",
-          "isPartnerOf": "844d3df3-759f-49d0-badd-8a84f5ef5580"
-        },
-        {
-          "id": "844d3df3-759f-49d0-badd-8a84f5ef5580",
-          "firstName": "Anja",
-          "lastName": "Hartmann",
-          "gender": "F",
-          "age": 60,
-          "phone": "+49 172 4745053",
-          "isPartnerOf": "27c1648b-8b20-45eb-9fc3-6afd35edebb8"
-        },
-        {
-          "id": "0761edbf-0f44-46db-8cfe-73c84fd393b9",
-          "firstName": "Sebastian",
-          "lastName": "Weber",
-          "gender": "M",
-          "age": 63,
-          "phone": "+49 173 9468397",
-          "isPartnerOf": "0c919e9c-e941-40d7-af48-8f5bb498dfb9"
-        },
-        {
-          "id": "0c919e9c-e941-40d7-af48-8f5bb498dfb9",
-          "firstName": "Sabine",
-          "lastName": "Schmidt",
-          "gender": "F",
-          "age": 65,
-          "phone": "+49 174 8760514",
-          "isPartnerOf": "0761edbf-0f44-46db-8cfe-73c84fd393b9"
-        },
-        {
-          "id": "7b284809-4e2e-4bef-947d-74a3e9b0b3a7",
-          "firstName": "Klaus",
-          "lastName": "Koch",
-          "gender": "M",
-          "age": 60,
-          "phone": "+49 170 0740817",
-          "isPartnerOf": null
-        }
-      ]
-    },
-    {
-      "id": "73ed3e81-e3e7-4402-9384-d84da773a040",
-      "name": "West Coast Swing",
-      "participants": [
-        {
-          "id": "aa277a9f-ff9b-49f6-8e6e-630bcbd1c87a",
-          "firstName": "Uwe",
-          "lastName": "Schwarz",
-          "gender": "M",
-          "age": 22,
-          "phone": "+49 162 2234060",
-          "isPartnerOf": "cf47307d-c1c6-40ef-b6b1-44599052f529"
-        },
-        {
-          "id": "cf47307d-c1c6-40ef-b6b1-44599052f529",
-          "firstName": "Katharina",
-          "lastName": "Richter",
-          "gender": "F",
-          "age": 42,
-          "phone": "+49 173 1046337",
-          "isPartnerOf": "aa277a9f-ff9b-49f6-8e6e-630bcbd1c87a"
-        },
-        {
-          "id": "f9740bfd-2316-419f-b653-1251ea5c01d3",
-          "firstName": "Uwe",
-          "lastName": "Richter",
-          "gender": "M",
-          "age": 25,
-          "phone": "+49 160 0420318",
-          "isPartnerOf": "c02ec5db-1ddf-4b5f-8302-9ff9aa78a088"
-        },
-        {
-          "id": "c02ec5db-1ddf-4b5f-8302-9ff9aa78a088",
-          "firstName": "Jessica",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 61,
-          "phone": "+49 170 1503181",
-          "isPartnerOf": "f9740bfd-2316-419f-b653-1251ea5c01d3"
-        },
-        {
-          "id": "c3e60ebd-1be4-400b-8877-1e5a220e781b",
-          "firstName": "Andreas",
-          "lastName": "Schulz",
-          "gender": "M",
-          "age": 56,
-          "phone": "+49 174 7922243",
-          "isPartnerOf": "de9f5e5e-4ba5-4429-b410-8d7d110a1ef3"
-        },
-        {
-          "id": "de9f5e5e-4ba5-4429-b410-8d7d110a1ef3",
-          "firstName": "Melanie",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 37,
-          "phone": "+49 152 3860165",
-          "isPartnerOf": "c3e60ebd-1be4-400b-8877-1e5a220e781b"
-        },
-        {
-          "id": "ec0eef33-348d-4f19-922e-208d45bc2791",
-          "firstName": "Lukas",
-          "lastName": "Fischer",
-          "gender": "M",
-          "age": 43,
-          "phone": "+49 174 1490601",
-          "isPartnerOf": "1d242cf7-4cab-4163-a0f2-fbbdeb0357c9"
-        },
-        {
-          "id": "1d242cf7-4cab-4163-a0f2-fbbdeb0357c9",
-          "firstName": "Monika",
-          "lastName": "Bauer",
-          "gender": "F",
-          "age": 22,
-          "phone": "+49 173 2147280",
-          "isPartnerOf": "ec0eef33-348d-4f19-922e-208d45bc2791"
-        },
-        {
-          "id": "537e9a90-326e-4ea7-8eb4-40b9b76d6e48",
-          "firstName": "Michael",
-          "lastName": "Schwarz",
-          "gender": "M",
-          "age": 37,
-          "phone": "+49 160 7684887",
-          "isPartnerOf": "9e37fb9b-44f5-43bb-99e1-2e266c813970"
-        },
-        {
-          "id": "9e37fb9b-44f5-43bb-99e1-2e266c813970",
-          "firstName": "Christina",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 61,
-          "phone": "+49 151 9131450",
-          "isPartnerOf": "537e9a90-326e-4ea7-8eb4-40b9b76d6e48"
-        },
-        {
-          "id": "870c70de-0d8e-4842-8c66-476b86986402",
-          "firstName": "Paul",
-          "lastName": "Schulz",
-          "gender": "M",
-          "age": 53,
-          "phone": "+49 174 4163179",
-          "isPartnerOf": "4152a41f-fb36-467e-8e8f-f760ca03ccb7"
-        },
-        {
-          "id": "4152a41f-fb36-467e-8e8f-f760ca03ccb7",
-          "firstName": "Lisa",
-          "lastName": "Koch",
-          "gender": "F",
-          "age": 64,
-          "phone": "+49 162 2958336",
-          "isPartnerOf": "870c70de-0d8e-4842-8c66-476b86986402"
-        },
-        {
-          "id": "4fbfc307-3b8b-4b26-bc52-a662cc02d80d",
-          "firstName": "Klaus",
-          "lastName": "Becker",
-          "gender": "M",
-          "age": 38,
-          "phone": "+49 175 0737267",
-          "isPartnerOf": "d2510e49-0e9b-4860-80c0-e7bf9f4274e7"
-        },
-        {
-          "id": "d2510e49-0e9b-4860-80c0-e7bf9f4274e7",
-          "firstName": "Anja",
-          "lastName": "Braun",
-          "gender": "F",
-          "age": 59,
-          "phone": "+49 175 9971375",
-          "isPartnerOf": "4fbfc307-3b8b-4b26-bc52-a662cc02d80d"
-        },
-        {
-          "id": "2d4dbfda-e1b8-4b09-b19c-5ea73e7c6d96",
-          "firstName": "Bernd",
           "lastName": "Zimmermann",
           "gender": "M",
-          "age": 45,
-          "phone": "+49 170 6268121",
-          "isPartnerOf": "dd1fa37b-c8c4-426c-8bfb-f183f01f2d60"
+          "age": 44,
+          "phone": "+49 170 5389651",
+          "isPartnerOf": "ddc9cf99-bf8b-4395-b070-a38c096ea3b3"
         },
         {
-          "id": "dd1fa37b-c8c4-426c-8bfb-f183f01f2d60",
-          "firstName": "Stefanie",
-          "lastName": "Schäfer",
+          "id": "ddc9cf99-bf8b-4395-b070-a38c096ea3b3",
+          "firstName": "Anna",
+          "lastName": "Richter",
           "gender": "F",
-          "age": 52,
-          "phone": "+49 160 8243374",
-          "isPartnerOf": "2d4dbfda-e1b8-4b09-b19c-5ea73e7c6d96"
+          "age": 32,
+          "phone": "+49 173 8189982",
+          "isPartnerOf": "2a34cd71-b9c3-478c-a7d9-6d29c3469ffa"
         },
         {
-          "id": "c9406e37-5841-4fe0-a918-536deb65f900",
-          "firstName": "Michael",
-          "lastName": "Krüger",
-          "gender": "M",
-          "age": 23,
-          "phone": "+49 175 7082377",
+          "id": "dee23a18-475c-428d-a452-158d4ca03fb0",
+          "firstName": "Anja",
+          "lastName": "Richter",
+          "gender": "F",
+          "age": 28,
+          "phone": "+49 175 6762197",
           "isPartnerOf": null
         }
       ]
     },
     {
-      "id": "1f5c1c1e-f559-43e2-9103-ee171784663e",
+      "id": "d220763a-a58d-480d-81aa-84a69997a278",
       "name": "Hip Hop Adults",
+      "schedule": [
+        "Samstag 16:30"
+      ],
       "participants": [
         {
-          "id": "52e17186-d093-43e2-acab-93ee28046b4d",
-          "firstName": "Markus",
-          "lastName": "Bauer",
+          "id": "17a1c837-c62a-4580-a595-e24490a0db1b",
+          "firstName": "Tim",
+          "lastName": "Meyer",
           "gender": "M",
-          "age": 46,
-          "phone": "+49 152 6126747",
-          "isPartnerOf": "3403e40f-4e1e-4381-ae79-636f046120f9"
+          "age": 63,
+          "phone": "+49 175 5346261",
+          "isPartnerOf": "c3cfb013-bdfc-48c5-a028-2434fb9358d5"
         },
         {
-          "id": "3403e40f-4e1e-4381-ae79-636f046120f9",
-          "firstName": "Julia",
-          "lastName": "Schulz",
+          "id": "c3cfb013-bdfc-48c5-a028-2434fb9358d5",
+          "firstName": "Jessica",
+          "lastName": "Hartmann",
           "gender": "F",
-          "age": 23,
-          "phone": "+49 174 2613340",
-          "isPartnerOf": "52e17186-d093-43e2-acab-93ee28046b4d"
+          "age": 64,
+          "phone": "+49 172 6248879",
+          "isPartnerOf": "17a1c837-c62a-4580-a595-e24490a0db1b"
         },
         {
-          "id": "c2dfa2b2-d708-4dc3-86c1-8d4070ec0d29",
-          "firstName": "Max",
-          "lastName": "Hoffmann",
+          "id": "23761a32-866f-47c1-afaf-db8148a4df86",
+          "firstName": "Bernd",
+          "lastName": "Wolf",
           "gender": "M",
-          "age": 45,
-          "phone": "+49 175 0815154",
-          "isPartnerOf": "4af7e798-9776-46ef-905f-3fe167648b34"
+          "age": 20,
+          "phone": "+49 160 4749600",
+          "isPartnerOf": "fdf248d6-0243-4be4-a55b-639b14516b07"
         },
         {
-          "id": "4af7e798-9776-46ef-905f-3fe167648b34",
-          "firstName": "Anja",
-          "lastName": "Zimmermann",
+          "id": "fdf248d6-0243-4be4-a55b-639b14516b07",
+          "firstName": "Birgit",
+          "lastName": "Wolf",
+          "gender": "F",
+          "age": 52,
+          "phone": "+49 175 9480061",
+          "isPartnerOf": "23761a32-866f-47c1-afaf-db8148a4df86"
+        },
+        {
+          "id": "d30dad3a-1185-4112-9c9e-90dcf52d7aae",
+          "firstName": "Alexander",
+          "lastName": "Schneider",
+          "gender": "M",
+          "age": 37,
+          "phone": "+49 151 0599345",
+          "isPartnerOf": "c75a4b49-c1d0-4cb9-a424-279d3e5e416c"
+        },
+        {
+          "id": "c75a4b49-c1d0-4cb9-a424-279d3e5e416c",
+          "firstName": "Monika",
+          "lastName": "Koch",
           "gender": "F",
           "age": 35,
-          "phone": "+49 170 2836414",
-          "isPartnerOf": "c2dfa2b2-d708-4dc3-86c1-8d4070ec0d29"
+          "phone": "+49 171 4012411",
+          "isPartnerOf": "d30dad3a-1185-4112-9c9e-90dcf52d7aae"
         },
         {
-          "id": "c7065af6-f613-41c8-accf-812ef9fe8473",
-          "firstName": "Jessica",
-          "lastName": "Bauer",
+          "id": "6181d12a-0771-4b2e-9526-3ef1ad82be22",
+          "firstName": "Uwe",
+          "lastName": "Schmidt",
+          "gender": "M",
+          "age": 31,
+          "phone": "+49 151 5405598",
+          "isPartnerOf": "90bcd069-b949-4850-8dda-72ccb0c9e729"
+        },
+        {
+          "id": "90bcd069-b949-4850-8dda-72ccb0c9e729",
+          "firstName": "Laura",
+          "lastName": "Richter",
           "gender": "F",
-          "age": 22,
-          "phone": "+49 174 7552464",
+          "age": 37,
+          "phone": "+49 151 1970120",
+          "isPartnerOf": "6181d12a-0771-4b2e-9526-3ef1ad82be22"
+        },
+        {
+          "id": "16908177-f1e8-4208-a112-9a50a0bfacc8",
+          "firstName": "Tanja",
+          "lastName": "Hofmann",
+          "gender": "F",
+          "age": 23,
+          "phone": "+49 152 5639155",
           "isPartnerOf": null
         },
         {
-          "id": "8d2fbe01-0c76-4b45-9d5a-87c17ae3005d",
-          "firstName": "Alexander",
-          "lastName": "Hoffmann",
+          "id": "7727c966-4f15-4c30-a63e-0170771589a5",
+          "firstName": "Paul",
+          "lastName": "Lange",
           "gender": "M",
-          "age": 49,
-          "phone": "+49 172 5924541",
-          "isPartnerOf": "8c8cb412-e6ea-4729-a339-384852083962"
+          "age": 52,
+          "phone": "+49 174 0763369",
+          "isPartnerOf": "183be7b8-7079-4714-ab7a-4c1799605206"
         },
         {
-          "id": "8c8cb412-e6ea-4729-a339-384852083962",
-          "firstName": "Sarah",
-          "lastName": "Koch",
-          "gender": "F",
-          "age": 39,
-          "phone": "+49 175 9722813",
-          "isPartnerOf": "8d2fbe01-0c76-4b45-9d5a-87c17ae3005d"
-        },
-        {
-          "id": "f55f374f-d161-4ad4-96b2-31b972735f5c",
-          "firstName": "Klaus",
-          "lastName": "Klein",
-          "gender": "M",
-          "age": 39,
-          "phone": "+49 151 4025033",
-          "isPartnerOf": "2d41be9f-74ed-416e-b553-da567d2b5975"
-        },
-        {
-          "id": "2d41be9f-74ed-416e-b553-da567d2b5975",
-          "firstName": "Sophie",
+          "id": "183be7b8-7079-4714-ab7a-4c1799605206",
+          "firstName": "Katharina",
           "lastName": "Fischer",
           "gender": "F",
-          "age": 60,
-          "phone": "+49 174 1368958",
-          "isPartnerOf": "f55f374f-d161-4ad4-96b2-31b972735f5c"
+          "age": 64,
+          "phone": "+49 152 5332118",
+          "isPartnerOf": "7727c966-4f15-4c30-a63e-0170771589a5"
         },
         {
-          "id": "e7234f6c-c520-4454-a519-9f5e97f61c83",
-          "firstName": "Jonas",
-          "lastName": "Hoffmann",
-          "gender": "M",
-          "age": 33,
-          "phone": "+49 160 2317175",
-          "isPartnerOf": "3b2c3c5d-0e62-45a2-957e-1b9aa51da998"
-        },
-        {
-          "id": "3b2c3c5d-0e62-45a2-957e-1b9aa51da998",
-          "firstName": "Maria",
-          "lastName": "Braun",
-          "gender": "F",
-          "age": 45,
-          "phone": "+49 171 6205762",
-          "isPartnerOf": "e7234f6c-c520-4454-a519-9f5e97f61c83"
-        },
-        {
-          "id": "31248e5b-4871-4ec2-b3d8-c4f93f12b766",
-          "firstName": "Julian",
-          "lastName": "Hartmann",
+          "id": "b40101ed-5400-4a89-934a-644ed719fe25",
+          "firstName": "Lukas",
+          "lastName": "Schröder",
           "gender": "M",
           "age": 24,
-          "phone": "+49 175 5543045",
-          "isPartnerOf": null
+          "phone": "+49 162 3933010",
+          "isPartnerOf": "ca2ccb56-1bf4-482b-bf56-c165018cc5b4"
         },
         {
-          "id": "d62fbc1d-c69a-4c6a-a5be-66764b29df61",
-          "firstName": "Klaus",
-          "lastName": "Schneider",
-          "gender": "M",
-          "age": 56,
-          "phone": "+49 160 5291812",
-          "isPartnerOf": "baf38cfa-ed1a-42cd-8e9f-28b16b80e6b0"
-        },
-        {
-          "id": "baf38cfa-ed1a-42cd-8e9f-28b16b80e6b0",
-          "firstName": "Monika",
-          "lastName": "Hofmann",
+          "id": "ca2ccb56-1bf4-482b-bf56-c165018cc5b4",
+          "firstName": "Birgit",
+          "lastName": "Müller",
           "gender": "F",
-          "age": 51,
-          "phone": "+49 160 4030913",
-          "isPartnerOf": "d62fbc1d-c69a-4c6a-a5be-66764b29df61"
+          "age": 50,
+          "phone": "+49 173 8373608",
+          "isPartnerOf": "b40101ed-5400-4a89-934a-644ed719fe25"
         },
         {
-          "id": "04bffa18-402d-4189-82fa-a455c9929255",
-          "firstName": "Felix",
-          "lastName": "Schäfer",
-          "gender": "M",
-          "age": 51,
-          "phone": "+49 152 2826183",
-          "isPartnerOf": "9412fdbc-4841-4283-9b4b-6edd38e983ef"
-        },
-        {
-          "id": "9412fdbc-4841-4283-9b4b-6edd38e983ef",
-          "firstName": "Lisa",
-          "lastName": "Schäfer",
-          "gender": "F",
-          "age": 44,
-          "phone": "+49 173 0282673",
-          "isPartnerOf": "04bffa18-402d-4189-82fa-a455c9929255"
-        },
-        {
-          "id": "bbba0c41-bd23-4a3b-ab55-9d0d1ca86a81",
-          "firstName": "Sebastian",
-          "lastName": "Fischer",
-          "gender": "M",
-          "age": 19,
-          "phone": "+49 172 2283928",
-          "isPartnerOf": "42e37d90-4065-45c0-a148-97aa589f06e7"
-        },
-        {
-          "id": "42e37d90-4065-45c0-a148-97aa589f06e7",
-          "firstName": "Monika",
+          "id": "beb3120a-8a62-4f87-85c7-f931e1b62adb",
+          "firstName": "Uwe",
           "lastName": "Becker",
-          "gender": "F",
-          "age": 48,
-          "phone": "+49 151 9270242",
-          "isPartnerOf": "bbba0c41-bd23-4a3b-ab55-9d0d1ca86a81"
-        },
-        {
-          "id": "627c005c-1d58-45c8-9727-5abf6f753b9e",
-          "firstName": "Max",
-          "lastName": "Schneider",
           "gender": "M",
-          "age": 37,
-          "phone": "+49 175 1696181",
-          "isPartnerOf": "25f70d2f-cf80-40ea-9ea6-1aeaf2190dc7"
+          "age": 42,
+          "phone": "+49 173 4483448",
+          "isPartnerOf": "8a1bdb91-20c1-4b02-b609-4e6b7db7e5e2"
         },
         {
-          "id": "25f70d2f-cf80-40ea-9ea6-1aeaf2190dc7",
-          "firstName": "Tanja",
+          "id": "8a1bdb91-20c1-4b02-b609-4e6b7db7e5e2",
+          "firstName": "Hannah",
           "lastName": "Richter",
           "gender": "F",
-          "age": 54,
-          "phone": "+49 170 5361705",
-          "isPartnerOf": "627c005c-1d58-45c8-9727-5abf6f753b9e"
+          "age": 20,
+          "phone": "+49 172 8863445",
+          "isPartnerOf": "beb3120a-8a62-4f87-85c7-f931e1b62adb"
         },
         {
-          "id": "e08183e4-21da-4275-a6d6-a1ef0a8a0114",
-          "firstName": "Bernd",
-          "lastName": "Schneider",
+          "id": "f16ac515-0d4f-4701-8bcd-800b6907ad3e",
+          "firstName": "Jürgen",
+          "lastName": "Schäfer",
           "gender": "M",
-          "age": 47,
-          "phone": "+49 170 1332211",
+          "age": 19,
+          "phone": "+49 175 7731523",
+          "isPartnerOf": "a7ddeb8d-9a43-4c2e-815e-a1b2748477fc"
+        },
+        {
+          "id": "a7ddeb8d-9a43-4c2e-815e-a1b2748477fc",
+          "firstName": "Christina",
+          "lastName": "Koch",
+          "gender": "F",
+          "age": 52,
+          "phone": "+49 173 3193409",
+          "isPartnerOf": "f16ac515-0d4f-4701-8bcd-800b6907ad3e"
+        },
+        {
+          "id": "65e5c730-40b6-422f-839b-725ea0ece7b6",
+          "firstName": "Katharina",
+          "lastName": "Wolf",
+          "gender": "F",
+          "age": 23,
+          "phone": "+49 174 7155445",
           "isPartnerOf": null
         }
       ]
     },
     {
-      "id": "b859ce64-5c06-4625-b090-d0f46fe3e4c9",
+      "id": "65768a36-76bc-48b6-86a7-a01cfa89c3df",
       "name": "Walzer Workshop",
+      "schedule": [
+        "Freitag 21:00",
+        "Sonntag 14:00"
+      ],
       "participants": [
         {
-          "id": "c0f707b7-bd36-496d-88bb-598ea42d901d",
-          "firstName": "Sebastian",
-          "lastName": "Koch",
+          "id": "dec9317f-f3b6-42b8-bd5c-4c06ec886ba8",
+          "firstName": "Stefan",
+          "lastName": "Wagner",
           "gender": "M",
-          "age": 45,
-          "phone": "+49 160 6671480",
+          "age": 21,
+          "phone": "+49 152 9777638",
+          "isPartnerOf": "5b460d14-9aaa-41c9-8caf-5b197e18652e"
+        },
+        {
+          "id": "5b460d14-9aaa-41c9-8caf-5b197e18652e",
+          "firstName": "Petra",
+          "lastName": "Schneider",
+          "gender": "F",
+          "age": 38,
+          "phone": "+49 174 9034401",
+          "isPartnerOf": "dec9317f-f3b6-42b8-bd5c-4c06ec886ba8"
+        },
+        {
+          "id": "64b8c380-373e-468e-bcd7-4fcf4e417453",
+          "firstName": "Sebastian",
+          "lastName": "Meyer",
+          "gender": "M",
+          "age": 39,
+          "phone": "+49 160 7054318",
           "isPartnerOf": null
         },
         {
-          "id": "2524f769-cf19-4bf7-a10b-02ca70cc21a0",
-          "firstName": "Max",
-          "lastName": "Schulz",
+          "id": "7d1d918c-506e-4344-befc-423cb9e501e7",
+          "firstName": "Jürgen",
+          "lastName": "Richter",
           "gender": "M",
-          "age": 54,
-          "phone": "+49 170 3105631",
-          "isPartnerOf": "bdd99842-ef64-40a7-9311-c8c4d169ff32"
+          "age": 20,
+          "phone": "+49 172 2308995",
+          "isPartnerOf": "758aadd3-54a6-4faf-89e0-626a4d6fcdf2"
         },
         {
-          "id": "bdd99842-ef64-40a7-9311-c8c4d169ff32",
-          "firstName": "Anna",
+          "id": "758aadd3-54a6-4faf-89e0-626a4d6fcdf2",
+          "firstName": "Tanja",
+          "lastName": "Neumann",
+          "gender": "F",
+          "age": 19,
+          "phone": "+49 160 7151538",
+          "isPartnerOf": "7d1d918c-506e-4344-befc-423cb9e501e7"
+        },
+        {
+          "id": "5d5292c9-46f0-49ee-8940-a8fcd5ebb797",
+          "firstName": "Dennis",
+          "lastName": "Meyer",
+          "gender": "M",
+          "age": 21,
+          "phone": "+49 152 2096387",
+          "isPartnerOf": "f5a382ac-18ff-4ac0-b0a2-79b41df23be5"
+        },
+        {
+          "id": "f5a382ac-18ff-4ac0-b0a2-79b41df23be5",
+          "firstName": "Lena",
           "lastName": "Klein",
           "gender": "F",
-          "age": 43,
-          "phone": "+49 152 4925198",
-          "isPartnerOf": "2524f769-cf19-4bf7-a10b-02ca70cc21a0"
+          "age": 24,
+          "phone": "+49 170 1654019",
+          "isPartnerOf": "5d5292c9-46f0-49ee-8940-a8fcd5ebb797"
         },
         {
-          "id": "522872f9-0116-4472-9f21-4683e8352b0c",
-          "firstName": "Markus",
-          "lastName": "Krüger",
+          "id": "d2fa9139-baba-4db4-973f-709b901ce217",
+          "firstName": "Thomas",
+          "lastName": "Neumann",
           "gender": "M",
-          "age": 33,
-          "phone": "+49 151 6000834",
-          "isPartnerOf": "c248505c-6f6a-478b-a9a0-61e07df316c2"
+          "age": 38,
+          "phone": "+49 162 2994404",
+          "isPartnerOf": "88103884-82d1-4fdc-a3e7-4879ab279fba"
         },
         {
-          "id": "c248505c-6f6a-478b-a9a0-61e07df316c2",
-          "firstName": "Lena",
-          "lastName": "Zimmermann",
+          "id": "88103884-82d1-4fdc-a3e7-4879ab279fba",
+          "firstName": "Christina",
+          "lastName": "Schmidt",
           "gender": "F",
-          "age": 57,
-          "phone": "+49 152 0171168",
-          "isPartnerOf": "522872f9-0116-4472-9f21-4683e8352b0c"
+          "age": 19,
+          "phone": "+49 172 9931245",
+          "isPartnerOf": "d2fa9139-baba-4db4-973f-709b901ce217"
         },
         {
-          "id": "bf188b03-0909-4ce8-9981-53f1835be9aa",
+          "id": "bc8cf8c0-70e0-4058-9cdb-fbc566dce0e9",
+          "firstName": "Christian",
+          "lastName": "Becker",
+          "gender": "M",
+          "age": 49,
+          "phone": "+49 170 6888274",
+          "isPartnerOf": "ebf9fc35-9641-4c20-9f0f-5be0b0e1a1ec"
+        },
+        {
+          "id": "ebf9fc35-9641-4c20-9f0f-5be0b0e1a1ec",
+          "firstName": "Hannah",
+          "lastName": "Schäfer",
+          "gender": "F",
+          "age": 26,
+          "phone": "+49 152 1250243",
+          "isPartnerOf": "bc8cf8c0-70e0-4058-9cdb-fbc566dce0e9"
+        },
+        {
+          "id": "98ab756b-3915-459f-ae33-65aac585ae82",
           "firstName": "Florian",
           "lastName": "Zimmermann",
           "gender": "M",
-          "age": 62,
-          "phone": "+49 151 5525337",
-          "isPartnerOf": "a987cd4a-edec-4f8b-9f0a-56bba828efcc"
-        },
-        {
-          "id": "a987cd4a-edec-4f8b-9f0a-56bba828efcc",
-          "firstName": "Sandra",
-          "lastName": "Becker",
-          "gender": "F",
-          "age": 56,
-          "phone": "+49 160 7884687",
-          "isPartnerOf": "bf188b03-0909-4ce8-9981-53f1835be9aa"
-        },
-        {
-          "id": "70f3b6ee-0b3f-485b-a00b-7c10911c40cd",
-          "firstName": "Christian",
-          "lastName": "Bauer",
-          "gender": "M",
-          "age": 26,
-          "phone": "+49 151 0997147",
-          "isPartnerOf": null
-        },
-        {
-          "id": "e729b3ad-80b6-4d23-8454-9b09595361a5",
-          "firstName": "Tim",
-          "lastName": "Hoffmann",
-          "gender": "M",
           "age": 53,
-          "phone": "+49 152 9116891",
-          "isPartnerOf": null
+          "phone": "+49 172 4742540",
+          "isPartnerOf": "154a920e-ffce-4213-92ae-4d4bf783fecb"
         },
         {
-          "id": "fffc6066-5fab-4179-ba29-68637221f69b",
-          "firstName": "Andreas",
-          "lastName": "Schäfer",
-          "gender": "M",
-          "age": 59,
-          "phone": "+49 173 3622106",
-          "isPartnerOf": "115dd32c-4f24-487e-ac51-7073d4a7748c"
-        },
-        {
-          "id": "115dd32c-4f24-487e-ac51-7073d4a7748c",
-          "firstName": "Birgit",
-          "lastName": "Richter",
+          "id": "154a920e-ffce-4213-92ae-4d4bf783fecb",
+          "firstName": "Christina",
+          "lastName": "Hofmann",
           "gender": "F",
-          "age": 48,
-          "phone": "+49 174 4103661",
-          "isPartnerOf": "fffc6066-5fab-4179-ba29-68637221f69b"
+          "age": 57,
+          "phone": "+49 152 2012781",
+          "isPartnerOf": "98ab756b-3915-459f-ae33-65aac585ae82"
         },
         {
-          "id": "8d56ba27-5c0f-4e75-9d8b-fa5918d9435e",
-          "firstName": "Daniel",
-          "lastName": "Lange",
-          "gender": "M",
-          "age": 27,
-          "phone": "+49 152 1722038",
-          "isPartnerOf": "51a240f0-89d7-447a-9956-890f983e5eac"
-        },
-        {
-          "id": "51a240f0-89d7-447a-9956-890f983e5eac",
-          "firstName": "Sandra",
-          "lastName": "Klein",
-          "gender": "F",
-          "age": 51,
-          "phone": "+49 172 5346715",
-          "isPartnerOf": "8d56ba27-5c0f-4e75-9d8b-fa5918d9435e"
-        },
-        {
-          "id": "9532d80d-fdaf-40ef-ad9e-7c5b44dbba0a",
-          "firstName": "Tanja",
-          "lastName": "Braun",
-          "gender": "F",
-          "age": 21,
-          "phone": "+49 171 1896571",
-          "isPartnerOf": null
-        },
-        {
-          "id": "dd516ad6-2040-499e-b5c6-f29ae469d973",
-          "firstName": "Andreas",
-          "lastName": "Schäfer",
-          "gender": "M",
-          "age": 26,
-          "phone": "+49 160 2599482",
-          "isPartnerOf": null
-        },
-        {
-          "id": "0c042e8e-b033-4b2b-b424-aa51ff08d9cd",
-          "firstName": "Bernd",
-          "lastName": "Schneider",
-          "gender": "M",
-          "age": 38,
-          "phone": "+49 160 6937612",
-          "isPartnerOf": "0d13a398-f76d-429b-9d6e-2d5905eab56a"
-        },
-        {
-          "id": "0d13a398-f76d-429b-9d6e-2d5905eab56a",
-          "firstName": "Anna",
-          "lastName": "Müller",
-          "gender": "F",
-          "age": 18,
-          "phone": "+49 152 1297256",
-          "isPartnerOf": "0c042e8e-b033-4b2b-b424-aa51ff08d9cd"
-        },
-        {
-          "id": "0b430ac5-8098-447f-b0e7-f33f28de2cde",
-          "firstName": "Lukas",
+          "id": "e84d7df0-00dc-4854-ae1d-3210ebf18f31",
+          "firstName": "Jonas",
           "lastName": "Fischer",
           "gender": "M",
-          "age": 44,
-          "phone": "+49 175 7425369",
-          "isPartnerOf": "6db2ea8e-473b-4a6c-becf-6258cc3858a0"
+          "age": 34,
+          "phone": "+49 175 0364543",
+          "isPartnerOf": "9733686e-5872-4456-9d10-a0ded5d64dfb"
         },
         {
-          "id": "6db2ea8e-473b-4a6c-becf-6258cc3858a0",
-          "firstName": "Melanie",
-          "lastName": "Wolf",
+          "id": "9733686e-5872-4456-9d10-a0ded5d64dfb",
+          "firstName": "Tanja",
+          "lastName": "Richter",
           "gender": "F",
-          "age": 38,
-          "phone": "+49 151 7532352",
-          "isPartnerOf": "0b430ac5-8098-447f-b0e7-f33f28de2cde"
+          "age": 40,
+          "phone": "+49 174 5808695",
+          "isPartnerOf": "e84d7df0-00dc-4854-ae1d-3210ebf18f31"
+        },
+        {
+          "id": "93d934be-46d6-4028-93c0-c327ac7d5638",
+          "firstName": "Florian",
+          "lastName": "Wagner",
+          "gender": "M",
+          "age": 44,
+          "phone": "+49 170 1210035",
+          "isPartnerOf": "ffbaeb60-d670-4f90-bcef-5171eba91797"
+        },
+        {
+          "id": "ffbaeb60-d670-4f90-bcef-5171eba91797",
+          "firstName": "Christina",
+          "lastName": "Schwarz",
+          "gender": "F",
+          "age": 65,
+          "phone": "+49 174 8451434",
+          "isPartnerOf": "93d934be-46d6-4028-93c0-c327ac7d5638"
+        },
+        {
+          "id": "accb4456-e59b-4f94-af78-e451402dce64",
+          "firstName": "Alexander",
+          "lastName": "Braun",
+          "gender": "M",
+          "age": 40,
+          "phone": "+49 174 0136828",
+          "isPartnerOf": "26ded6b7-89a8-48f3-af08-853f3976feb8"
+        },
+        {
+          "id": "26ded6b7-89a8-48f3-af08-853f3976feb8",
+          "firstName": "Anja",
+          "lastName": "Meyer",
+          "gender": "F",
+          "age": 61,
+          "phone": "+49 170 0747036",
+          "isPartnerOf": "accb4456-e59b-4f94-af78-e451402dce64"
         }
       ]
     }
-  ]
+  ],
+  "attendance": {
+    "1c9ffdfd-be5c-4efd-ae6f-275f808eb21e_2026-01-31": [
+      "c154b56a-eb51-491a-b0d3-1ded38ba4ab4",
+      "b55e5c06-e849-484a-8e3b-33d312cfb2c4",
+      "6b02fc80-5c45-451a-9887-daf5f20ca3a8",
+      "00fca0fb-5304-448f-8b81-5dfae5ce6861",
+      "f4a85259-c98b-454e-b297-65655f038f3b",
+      "85c5ab0a-5c09-41fe-b9c7-71fff65ad4de",
+      "953d3783-af72-4676-a49b-f23935aa2254",
+      "57e908c6-941b-461e-85ce-0c03e163f5be",
+      "4249ac77-2dcc-4c69-930d-e2c3e1a36fb8"
+    ],
+    "65529965-4674-4669-bc80-702879e74afd_2026-01-31": [],
+    "d220763a-a58d-480d-81aa-84a69997a278_2026-01-31": []
+  }
 }
