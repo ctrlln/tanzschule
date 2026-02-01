@@ -7,7 +7,105 @@ const sqlite3 = require('sqlite3').verbose();
 const app = express();
 const PORT = process.env.PORT || 3000;
 const DB_FILE = path.join(__dirname, 'data', 'tanzschule.db');
+const fs = require('fs');
+
+// Ensure data directory exists
+if (!fs.existsSync(path.join(__dirname, 'data'))) {
+    fs.mkdirSync(path.join(__dirname, 'data'));
+}
+
 const db = new sqlite3.Database(DB_FILE);
+
+// Initialize DB if empty
+db.serialize(() => {
+    db.get("SELECT count(*) as count FROM sqlite_master WHERE type='table' AND name='courses'", (err, row) => {
+        if (err) return console.error(err);
+        if (row && row.count === 0) {
+            console.log("Database empty. Initializing...");
+            initDatabase();
+        }
+    });
+});
+
+function initDatabase() {
+    const JSON_FILE = path.join(__dirname, 'data', 'mock_db.json');
+    if (!fs.existsSync(JSON_FILE)) {
+        console.error("No mock data found to initialize DB.");
+        return;
+    }
+    const jsonData = JSON.parse(fs.readFileSync(JSON_FILE, 'utf8'));
+
+    db.serialize(() => {
+        // Create Tables
+        db.run(`CREATE TABLE courses (
+            id TEXT PRIMARY KEY,
+            name TEXT,
+            schedule TEXT
+        )`);
+
+        db.run(`CREATE TABLE students (
+            id TEXT PRIMARY KEY,
+            firstname TEXT,
+            lastname TEXT,
+            gender TEXT,
+            age INTEGER,
+            phone TEXT,
+            partner_id TEXT
+        )`);
+
+        db.run(`CREATE TABLE enrollments (
+            course_id TEXT,
+            student_id TEXT,
+            PRIMARY KEY (course_id, student_id),
+            FOREIGN KEY(course_id) REFERENCES courses(id),
+            FOREIGN KEY(student_id) REFERENCES students(id)
+        )`);
+
+        db.run(`CREATE TABLE attendance (
+            course_id TEXT,
+            student_id TEXT,
+            date TEXT,
+            present INTEGER,
+            PRIMARY KEY (course_id, student_id, date)
+        )`);
+
+        // Insert Data
+        const stmtCourse = db.prepare("INSERT INTO courses VALUES (?, ?, ?)");
+        const stmtStudent = db.prepare("INSERT INTO students VALUES (?, ?, ?, ?, ?, ?, ?)");
+        const stmtEnroll = db.prepare("INSERT INTO enrollments VALUES (?, ?)");
+        const stmtAttend = db.prepare("INSERT INTO attendance VALUES (?, ?, ?, ?)");
+
+        const studentsMap = new Map();
+
+        jsonData.courses.forEach(course => {
+            stmtCourse.run(course.id, course.name, JSON.stringify(course.schedule));
+
+            course.participants.forEach(p => {
+                if (!studentsMap.has(p.id)) {
+                    stmtStudent.run(p.id, p.firstName, p.lastName, p.gender, p.age, p.phone, p.isPartnerOf);
+                    studentsMap.set(p.id, true);
+                }
+                stmtEnroll.run(course.id, p.id);
+            });
+        });
+
+        if (jsonData.attendance) {
+            Object.entries(jsonData.attendance).forEach(([key, participantIds]) => {
+                const [courseId, date] = key.split('_');
+                participantIds.forEach(pId => {
+                    stmtAttend.run(courseId, pId, date, 1);
+                });
+            });
+        }
+
+        stmtCourse.finalize();
+        stmtStudent.finalize();
+        stmtEnroll.finalize();
+        stmtAttend.finalize(() => {
+            console.log("Database initialized successfully.");
+        });
+    });
+}
 
 app.use(cors());
 app.use(bodyParser.json());
